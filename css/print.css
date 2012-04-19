@@ -1,0 +1,14 @@
+@media print {
+
+	#container {width: 100%; margin: 0; padding: 0;}
+	
+	#content {width: 100%; float: none; overflow: visible;}
+	
+	#header, .menu, .search {display: none;}
+	
+	/*reset lists style*/
+	#frm ul li {list-style: disc inside;}
+	/*set border to blackborder table*/
+	table.blackborder td {border: 1px solid #555; border-collapse: collapse;}
+
+}

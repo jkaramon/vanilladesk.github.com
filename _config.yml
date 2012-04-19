@@ -1,0 +1,4 @@
+paginate: 5
+paginate_files: 
+  - news.htm 
+

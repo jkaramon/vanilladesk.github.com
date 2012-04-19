@@ -1,0 +1,147 @@
+@media screen {
+ul.AspNet-Menu {position: relative;}
+ul.AspNet-Menu, ul.AspNet-Menu ul {margin: 0; padding: 0; display: block;}
+ul.AspNet-Menu li {position: relative; list-style: none;}
+ul.AspNet-Menu li a, ul.AspNet-Menu li span {display: block; text-decoration: none;}
+ul.AspNet-Menu ul {position: absolute; display: none;}
+
+/* Add more rules here if your menus have more than three (3) tiers */
+ul.AspNet-Menu li:hover ul ul,
+ul.AspNet-Menu li:hover ul ul ul,
+ul.AspNet-Menu li.AspNet-Menu-Hover ul ul,
+ul.AspNet-Menu li.AspNet-Menu-Hover ul ul ul
+{
+    display: none;
+}
+
+.AspNet-Menu-Horizontal ul.AspNet-Menu li {float: left;}
+ul.AspNet-Menu li {background-image: none; padding: 0; list-style: none;}
+
+
+/*menu*/
+.menu {margin: 0; padding: 0; z-index: 300; height: 51px;}
+.menu ul.AspNet-Menu {margin: 0; padding: 0; height: 51px;}
+.menu ul.AspNet-Menu li {margin: 0 10px 0 0; padding: 0; height: 51px;}
+
+/*items*/
+.menu ul.AspNet-Menu a
+{
+    text-decoration: none;
+    font-size: 80%;
+    font-weight: bold;
+    font-family: Tahoma, Arial, sans-serif;
+    text-transform: uppercase;
+    padding: 0;
+    margin: 0;
+    color: #333333;
+    outline: none;
+    height: 51px;
+    _width: 1%;
+    _white-space: nowrap;
+}
+
+body.home .menu .AspNet-Menu li.home, 
+body.features .menu .AspNet-Menu li.features, 
+body.pricing .menu .AspNet-Menu li.pricing, 
+body.screenshots .menu .AspNet-Menu li.screenshots, 
+body.news .menu .AspNet-Menu li.news, 
+body.support .menu .AspNet-Menu li.support 
+{
+  background: transparent url(/images/menu-a.gif) no-repeat bottom left;
+
+}
+
+
+
+
+.menu ul.AspNet-Menu a span
+{
+    padding: 0 17px 0 17px;
+    display: block;
+    line-height: 51px;
+}
+
+
+.menu ul.AspNet-Menu li.AspNet-Menu-WithChildren a:hover,
+.menu ul.AspNet-Menu li.AspNet-Menu-Leaf a:hover
+{
+    background: transparent url(/images/menu-a.gif) no-repeat bottom left;
+}
+
+
+
+/*submenu*/
+.submenu ul.AspNet-Menu {margin: 0; padding: 0;}
+.submenu ul.AspNet-Menu li {margin: 0 2px 0 2px; padding: 0;}
+
+.submenu ul.AspNet-Menu a
+{
+    text-decoration: none;
+    font-size: 80%;
+    font-weight: bold;
+    font-family: Tahoma, Arial, sans-serif;
+    text-transform: uppercase;
+    padding: 0 15px 17px 15px;
+    line-height: 1.2;
+    margin: 0;
+    color: #333333;
+    outline: none;
+}
+
+body.summary .submenu .AspNet-Menu li.summary, 
+body.demo .submenu .AspNet-Menu li.demo, 
+body.trial .submenu .AspNet-Menu li.trial, 
+body.free .submenu .AspNet-Menu li.free,
+body.faq .submenu .AspNet-Menu li.faq,
+.submenu .AspNet-Menu-Leaf-Selected
+{
+  background: transparent url(/images/submenu-a-hover.gif) no-repeat 50% 100%;
+
+}
+
+
+
+
+.submenu ul.AspNet-Menu li.AspNet-Menu-WithChildren a:hover,
+.submenu ul.AspNet-Menu li.AspNet-Menu-Leaf a:hover
+{
+    background: transparent url(/images/submenu-a-hover.gif) no-repeat 50% 100%;
+}
+
+
+/*footer sitemap*/
+.footmap {margin: 0; padding: 0;}
+.footmap ul.AspNet-Menu {margin: 0; padding: 0;}
+.footmap ul.AspNet-Menu li {margin: 0 80px 0 0; padding: 0;}
+.footmap ul.AspNet-Menu ul {position: absolute; display: block; width: 120px;}
+.footmap ul.AspNet-Menu li li {margin: 0; padding: 0; width: 120px;}
+
+/*items*/
+.footmap ul.AspNet-Menu a
+{
+    text-decoration: none;
+    font-size: 87%;
+    font-weight: bold;
+    padding: 0;
+    margin: 0;
+    color: #808080;
+    outline: none;
+    line-height: 1.54;
+}
+
+
+.footmap ul.AspNet-Menu li.AspNet-Menu-WithChildren a:hover,
+.footmap ul.AspNet-Menu li.AspNet-Menu-Leaf a:hover,
+.footmap ul.AspNet-Menu li.AspNet-Menu-Leaf-Selected a:hover,
+.footmap ul.AspNet-Menu li.AspNet-Menu-WithChildren-Selected a:hover,
+.footmap ul.AspNet-Menu li.AspNet-Menu-WithChildren-SelectedPath a:hover
+{
+    color: #9aa31a;
+}
+
+.footmap ul.AspNet-Menu li li a
+{
+    font-weight: normal;
+}
+
+}
