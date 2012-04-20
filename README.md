@@ -21,8 +21,18 @@ Install Rake and jekyll gems:
 
 
 
+
 Editing
 =======
+
+
+Important! All files are stored in 'source' git branch. 'master' branch contains compiled files produced by jekyll.
+
+Before start editing, switch to 'source branch':
+
+	git checkout source 	# switch to source branch 
+	git pull origin source 	# fetch and merge latest version
+
 
 Run jekyll server(with auto-restart on update)
 	
@@ -64,7 +74,13 @@ More on:
 
 Publishing
 ==========
-Run:
+
+To commit to the 'source' branch (this will not trigger site publishing), run:
+	
+	git commit -am "Commit message"
+	git push origin source 
+
+To publish latest changes, run:
 
 	rake publish # this will build and publish web site
 		
