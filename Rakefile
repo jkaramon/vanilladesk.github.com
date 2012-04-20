@@ -30,6 +30,7 @@ task :commit => :build do
 
 	system "git status"
 	system "git checkout source"
+	system "git commit add ."
 	system "git commit -am \"#{commit_msg}\""
 	system "git push origin source"	
 	puts "Done."
@@ -57,7 +58,7 @@ end
 task :publish => [:commit, :clone, :copy] do
 	FileUtils.cd('_compiled', :verbose => true) do
 		puts %x[git add . && git commit -am "#{commit_msg}"; ]
-		puts %x[cd _compiled; git push origin master]
+		puts %x[git push origin master]
 	end
 end
 
