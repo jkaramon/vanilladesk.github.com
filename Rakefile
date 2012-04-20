@@ -27,7 +27,6 @@ end
 
 task :commit => :build do
 	info "Commiting changes into source branch ..."
-
 	system "git status"
 	system "git checkout source"
 	system "git commit add ."
