@@ -45,6 +45,7 @@ end
 task :copy => :clone do
 	puts FileUtils.pwd
 	FileUtils.cp_r File.join("_site", "."), '_compiled', :verbose => true
+	FileUtils.cp_r File.join("_site/images", "."), '_compiled/images', :verbose => true
 	FileUtils.touch File.join("_compiled", ".nojekyll")
 	FileUtils.rm File.join("_compiled", "Rakefile")
 	File.open(File.join(File.dirname(__FILE__), '_compiled', 'README.md'), 'w') do |f| 
