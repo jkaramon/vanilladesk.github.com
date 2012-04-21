@@ -36,7 +36,8 @@ Before start editing, switch to 'source branch':
 
 Run jekyll server(with auto-restart on update)
 	
-	jekyll --server --auto
+	rake run # on windows
+	jekyll --server --auto # Unix	
 
 Open browser 
 

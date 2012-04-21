@@ -18,7 +18,7 @@ def delete(dir)
 end
 
 
-task :build do
+task :build => :chcp do
 	info "Compiling site ..."
 	system("jekyll")	
 end
@@ -59,6 +59,16 @@ task :publish => [:commit, :clone, :copy] do
 		puts %x[git add . && git commit -am "#{commit_msg}"; ]
 		puts %x[git push origin master]
 	end
+end
+
+task :chcp do
+    puts '* Changing the codepage'
+    `chcp 65001`
+end
+
+task :run => :chcp do
+    puts '* Running Jekyll'
+    `jekyll --server --auto`
 end
 
 
