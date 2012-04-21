@@ -25,18 +25,18 @@ end
 
 task :build => :chcp do
 	info "Compiling site ..."
-	sh "jekyll"	
+	`jekyll`	
 end
 
 
 
 task :commit => :build do
 	info "Commiting changes into source branch ..."
-	sh "git status"
-	sh "git checkout source"
-	sh "git add . && git commit -m \"#{commit_msg}\""
-	sh "git pull origin source"
-	sh "git push origin source"	
+	`git status`
+	`git checkout source`
+	`git add . && git commit -m \"#{commit_msg}\"`
+	`git pull origin source`
+	`git push origin source`	
 	puts "Done."
 end
 
@@ -45,7 +45,6 @@ end
 task :copy => :clone do
 	puts FileUtils.pwd
 	FileUtils.cp_r File.join("_site", "."), '_compiled', :verbose => true
-	FileUtils.cp_r File.join("_site/images", "."), '_compiled/images', :verbose => true
 	FileUtils.touch File.join("_compiled", ".nojekyll")
 	FileUtils.rm File.join("_compiled", "Rakefile")
 	File.open(File.join(File.dirname(__FILE__), '_compiled', 'README.md'), 'w') do |f| 
@@ -58,21 +57,21 @@ end
 
 task :clone do
 	FileUtils.rm_rf '_compiled'
-	sh "git clone git@github.com:vanilladesk/vanilladesk.github.com.git -b master _compiled"
+	`git clone git@github.com:vanilladesk/vanilladesk.github.com.git -b master _compiled`
 	delete "_compiled"
 end
 
 task :publish => [:commit, :copy] do
 	FileUtils.cd('_compiled', :verbose => true) do
-		# puts %x[git add . && git commit -m "#{commit_msg}"; ]
-		# puts %x[git push origin master]
+		puts `git add . && git commit -m "#{commit_msg}`
+		puts `git push origin master`
 	end
 end
 
 task :chcp do
 	if windows?
 		puts '* Changing the codepage'
-		sh "chcp 65001"
+		`chcp 65001`
 	end
 end
 
