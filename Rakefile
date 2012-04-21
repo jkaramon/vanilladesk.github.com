@@ -43,7 +43,8 @@ end
 
 
 task :copy => :clone do
-	FileUtils.cp_r File.join("_site", "."), '_compiled', :verbose => true, :remove_destination => true
+	puts FileUtils.pwd
+	FileUtils.cp_r File.join("_site", "."), '_compiled', :verbose => true
 	FileUtils.touch File.join("_compiled", ".nojekyll")
 	FileUtils.rm File.join("_compiled", "Rakefile")
 	File.open(File.join(File.dirname(__FILE__), '_compiled', 'README.md'), 'w') do |f| 
@@ -62,8 +63,8 @@ end
 
 task :publish => [:commit, :copy] do
 	FileUtils.cd('_compiled', :verbose => true) do
-		puts %x[git add . && git commit -am "#{commit_msg}"; ]
-		puts %x[git push origin master]
+		# puts %x[git add . && git commit -m "#{commit_msg}"; ]
+		# puts %x[git push origin master]
 	end
 end
 
