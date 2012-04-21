@@ -31,7 +31,7 @@ task :commit => :build do
 	system "git checkout source"
 	system "git commit add ."
 	system "git commit -am \"#{commit_msg}\""
-	system "aa"
+	`aa`
 	system "git push origin source"	
 	puts "Done."
 end
