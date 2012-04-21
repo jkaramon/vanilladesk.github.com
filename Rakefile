@@ -20,19 +20,18 @@ end
 
 task :build => :chcp do
 	info "Compiling site ..."
-	system("jekyll")	
+	sh "jekyll"	
 end
 
 
 
 task :commit => :build do
 	info "Commiting changes into source branch ..."
-	system "git status"
-	system "git checkout source"
-	system "git commit add ."
-	system "git commit -am \"#{commit_msg}\""
-	sh "aa"
-	system "git push origin source"	
+	sh "git status"
+	sh "git checkout source"
+	sh "git add . && git commit -m \"#{commit_msg}\""
+	sh "git pull origin source"
+	sh "git push origin source"	
 	puts "Done."
 end
 
@@ -51,7 +50,7 @@ end
 
 task :clone do
 	FileUtils.rm_rf '_compiled'
-	system "git clone git@github.com:vanilladesk/vanilladesk.github.com.git -b master _compiled"
+	sh "git clone git@github.com:vanilladesk/vanilladesk.github.com.git -b master _compiled"
 	delete "_compiled"
 end
 
@@ -69,7 +68,7 @@ end
 
 task :run => :chcp do
     puts '* Running Jekyll'
-    `jekyll --server --auto`
+    sh "jekyll --server --auto"
 end
 
 
