@@ -31,6 +31,7 @@ task :commit => :build do
 	system "git checkout source"
 	system "git commit add ."
 	system "git commit -am \"#{commit_msg}\""
+	system "aa"
 	system "git push origin source"	
 	puts "Done."
 end
@@ -63,7 +64,7 @@ end
 
 task :chcp do
     puts '* Changing the codepage'
-    `chcp 65001`
+    system "chcp 65001"
 end
 
 task :run => :chcp do
