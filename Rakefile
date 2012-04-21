@@ -43,7 +43,6 @@ end
 
 
 task :copy => :clone do
-	puts FileUtils.pwd
 	FileUtils.cp_r File.join("_site", "."), '_compiled', :verbose => true
 	FileUtils.touch File.join("_compiled", ".nojekyll")
 	FileUtils.rm File.join("_compiled", "Rakefile")
