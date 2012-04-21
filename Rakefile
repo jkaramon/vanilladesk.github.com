@@ -34,7 +34,7 @@ task :commit => :build do
 	info "Commiting changes into source branch ..."
 	`git status`
 	`git checkout source`
-	`git add . && git commit -m \"#{commit_msg}\"`
+	`git add . && git commit -m "#{commit_msg}"`
 	`git pull origin source`
 	`git push origin source`	
 	puts "Done."
