@@ -1,7 +1,7 @@
 paginate: 5
 paginate_files:
 - news.htm
-url: http://vanilladesk.github.com
+url: http://www.vanilladesk.com
 rss:
   name: VanillaDesk - News 
   feed_page: feed.xml
