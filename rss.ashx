@@ -3,7 +3,7 @@
 <channel>
 <title>VanillaDesk - News</title>
 <description></description>
-<link>http://vanilladesk.github.com</link>
+<link>http://www.vanilladesk.com</link>
 
 <item>
 <title>System notifications are now customizable</title>
@@ -33,7 +33,7 @@
 
 </description>
 <published>2012-04-12 00:00:00 +0200</published>
-<link>http://vanilladesk.github.com/2012/04/12/System-notifications-are-now-customizable.html</link>
+<link>http://www.vanilladesk.com/2012/04/12/System-notifications-are-now-customizable.html</link>
 </item>
 
 <item>
@@ -94,7 +94,7 @@
 
 </description>
 <published>2012-04-11 00:00:00 +0200</published>
-<link>http://vanilladesk.github.com/2012/04/11/New-design-and-personalization-options-for-VanillaDesk-Portal.html</link>
+<link>http://www.vanilladesk.com/2012/04/11/New-design-and-personalization-options-for-VanillaDesk-Portal.html</link>
 </item>
 
 <item>
@@ -162,7 +162,7 @@
 &lt;/p&gt;
 </description>
 <published>2012-02-28 00:00:00 +0100</published>
-<link>http://vanilladesk.github.com/2012/02/28/Overview-of-sent-notifications-just-got-better.html</link>
+<link>http://www.vanilladesk.com/2012/02/28/Overview-of-sent-notifications-just-got-better.html</link>
 </item>
 
 <item>
@@ -226,7 +226,7 @@
 &lt;/div&gt;
 </description>
 <published>2012-02-02 00:00:00 +0100</published>
-<link>http://vanilladesk.github.com/2012/02/02/Starting-with-VanillaDesk-is-easier-than-ever.html</link>
+<link>http://www.vanilladesk.com/2012/02/02/Starting-with-VanillaDesk-is-easier-than-ever.html</link>
 </item>
 
 <item>
@@ -265,7 +265,7 @@
 	
 </description>
 <published>2012-01-30 00:00:00 +0100</published>
-<link>http://vanilladesk.github.com/2012/01/30/VanillaDesk-Help-has-been-made-more-contextual.html</link>
+<link>http://www.vanilladesk.com/2012/01/30/VanillaDesk-Help-has-been-made-more-contextual.html</link>
 </item>
 
 <item>
@@ -292,7 +292,7 @@
 &lt;p&gt;
 &lt;/p&gt;</description>
 <published>2011-12-01 00:00:00 +0100</published>
-<link>http://vanilladesk.github.com/2011/12/01/Lite-edition-now-available.html</link>
+<link>http://www.vanilladesk.com/2011/12/01/Lite-edition-now-available.html</link>
 </item>
 
 <item>
@@ -310,7 +310,7 @@
 &lt;p&gt;&lt;em&gt;Of course, you will not get the full VanillaDesk experience, as there are some technical limitations in what the Demo can show you. To see what is not available, check &lt;a href=&quot;/demo.htm&quot; onclick=&quot;&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;
 &lt;/p&gt;</description>
 <published>2011-11-25 00:00:00 +0100</published>
-<link>http://vanilladesk.github.com/2011/11/25/You-can-try-VanillDesk-before-you-register.html</link>
+<link>http://www.vanilladesk.com/2011/11/25/You-can-try-VanillDesk-before-you-register.html</link>
 </item>
 
 <item>
@@ -325,7 +325,7 @@
   &lt;br /&gt;Also systems from external tickets can be automatically linked this way to decrease ticket administration and improve the resolution times a bit.
 &lt;/p&gt;</description>
 <published>2011-10-01 00:00:00 +0200</published>
-<link>http://vanilladesk.github.com/2011/10/01/New-options-for-ticket-relations.html</link>
+<link>http://www.vanilladesk.com/2011/10/01/New-options-for-ticket-relations.html</link>
 </item>
 
 <item>
@@ -343,7 +343,7 @@
 &lt;p&gt;This allowed us to introduce a lot of minor changes. Better attachment handling, displaying times also in relative form (like &quot;one minute ago&quot;), to name just a few.&amp;nbsp;
 &lt;/p&gt;</description>
 <published>2011-09-17 00:00:00 +0200</published>
-<link>http://vanilladesk.github.com/2011/09/17/Redesigned-ticket-layout-and-functionality.html</link>
+<link>http://www.vanilladesk.com/2011/09/17/Redesigned-ticket-layout-and-functionality.html</link>
 </item>
 
 <item>
@@ -362,7 +362,7 @@
   &lt;br /&gt;
 &lt;/p&gt;</description>
 <published>2011-08-05 00:00:00 +0200</published>
-<link>http://vanilladesk.github.com/2011/08/05/Service-management-was-made-simpler-and-quicker-to-setup.html</link>
+<link>http://www.vanilladesk.com/2011/08/05/Service-management-was-made-simpler-and-quicker-to-setup.html</link>
 </item>
 
 </channel>
