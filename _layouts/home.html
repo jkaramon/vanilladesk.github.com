@@ -8,7 +8,8 @@
 
     <a href="#start" class="hidden">Skip to page content</a>
     <div id="{{page.page_id}}">
-      <div id="container" class="home">
+	
+	  <div id="container" class="home">
         
         <div id="header">
           {% include header.html %} 
@@ -21,29 +22,22 @@
         <a name="start"></a>
         <div id="body">
           
-          
+		            
           {{content}}
 
           
-          <div class="home-content4">
-            {% include fb.html %} 
-          </div>
-        </div>
-        
-        
-        <div id="footer-cont">
-          <div id="footer">
-            <div id="footermenu">
-              {% include sitemap.html %} 
-
-            </div>
-            <div id="bottom">
-              {% include footer.html %}  
-            </div>
-          </div>
         </div>
       </div>
-
+		<div id="footer-cont">
+			<div id="footer">
+				<div id="footermenu">
+					{% include sitemap.html %} 
+				</div>
+			<div id="bottom">
+				{% include footer.html %}  
+			</div>
+		</div>
+	</div>
    
   </body>
 </html>

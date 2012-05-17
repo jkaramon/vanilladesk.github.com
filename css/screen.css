@@ -45,7 +45,7 @@
     a.hover:hover {opacity:0.8;}
 
     a.popup img {
-      width: 200px;
+      width: 300px;
     }
 
 
@@ -173,8 +173,8 @@
         
     #body .home-content2 {clear: both; width: 555px; float: left; margin: 0; padding: 0 0 0.5em 0;}
         .home-content2 table {font-size: 93%; line-height: 1.29;}
-    #body .home-content3 {width: 330px; float: right; margin: 20px 0 0 0; padding: 0 20px 2em 20px; background: transparent url(http://cms.alejtech.eu/vlhd/files//images/home-content3_v2.png) no-repeat 0 0; font-size: 93%; line-height: 1.5;}
-        #body .home-content3-body {width: 330px; /* by Mato -> background: transparent url(http://cms.alejtech.eu/vlhd/files//images/saas-icon.png) no-repeat top right;*/}
+    #body .home-content3 {width: 330px; float: right; margin: 20px 0 0 0; padding: 0 20px 2em 20px; background: transparent url(/images/home-content3_v2.png) no-repeat 0 0; font-size: 93%; line-height: 1.5;}
+        #body .home-content3-body {width: 330px;}
         .home-content3 h3 {font-family: Georgia, serif; font-size: 107%;}
         .home-content3 p {font-weight: bold;}
         .home-content3 a {color:#323232; font-weight: normal;}
@@ -183,12 +183,12 @@
 
 
 /*position*/
-    body.home {width: 100%; margin: 0; padding: 0; background: #e5e5e5 url(/images/bg-home.gif) repeat-x 0 0; overflow: hidden;}
+    body.home {width: 100%; margin: 0; padding: 0; background: #e5e5e5 url(/images/bg-home.gif) repeat-x 0 0; overflow: auto;}
     #container {width: 970px; margin: 0 auto; padding: 0;}
         #header {position: relative; height: 90px; padding: 0; margin: 0;}
             #header a.home {position: absolute; display: block; top: 0; left: 0; width: 190px; height: 90px;}
-            #header #info {position: absolute; top: 0; right: 96px; width: 300px; height: 90px; color: #d2d2d2; font-family: Tahoma, Arial, sans-serif; font-size: 73%; background: transparent url(/images/header-separator.gif) no-repeat 100% 50%; text-align: right; padding-right: 31px; line-height: 90px;}
-                #info p, #signin p {margin: 0; padding: 0;}
+            #header #followus {position: absolute; top: 0; right: 96px; color: #d2d2d2; font-family: Tahoma, Arial, sans-serif; font-size: 73%; background: transparent url(/images/header-separator.gif) no-repeat 100% 50%; text-align: right; padding: 28px 10px 28px 0; line-height: 90px; float:right;}
+                #followus p, #signin p {margin: 0; padding: 0;}
             #header #signin {position: absolute; top: 0; right: 0; width: 90px; height: 90px; padding-top: 34px; color: #d2d2d2; font-family: Tahoma, Arial, sans-serif; font-size: 73%; text-align: right;}
                 #signin a {color: #d2d2d2; text-decoration: none; font-weight: bold; padding-left: 15px; background: transparent url(/images/signin.gif) no-repeat 0 60%;}
                 #signin a:hover {color: #fff; text-decoration: underline;}
@@ -222,9 +222,7 @@
                 #footer-news .footernews-date {font-weight: bold;}
                 #footer-news a {color: #808080; text-decoration: none;}
                 #footer-news a:hover {color: #9aa31a; text-decoration: underline;}
-            #facebook_like {padding-top: 10px; border-top: 1px solid #e0e0e0;}
-            #fb-like-box (height: 56px;)
-            #g-plus (background: transparent; height: 56px;)
+
             #bottom {width: 960px; margin: 0; padding: 22px 0 28px 0; border-top: 1px solid #e0e0e0; color: #959595; font-size: 73%; line-height: 1.5; background: transparent url(/images/vanilladesk-logo-foot.jpg) no-repeat 0 18px;}
                 #bottom a {color: #7c7c7c; font-weight: bold; text-decoration: none; padding-right: 15px;}
                 #bottom a:hover {color: #000; text-decoration: underline;}
@@ -233,6 +231,20 @@
 
 #editor {margin: 0; padding: 10px; width: 600px; border: none; background: #ffffff none no-repeat 0 0;}
 
+/*facebook*/
+	#facebook_like {padding-top: 10px; border-top: 1px solid #e0e0e0; float:left;}
+	#fb-like-box {height: 56px;}
+
+/*google plus*/
+
+	#g-plus {background-color: #E5E5E5; height: 56px; float:left; padding-top:10px;}
+	/*#social_gplus_circle{overflow: hidden;width: 105px;height: 45px;padding-top: 7px;}
+    #social_gplus_circle_inner{overflow: hidden;position: relative;top: -20px;left: -130px;height: 50px;width: 276px;}
+    iframe{display: block!important;}*/
+
+/*twitter*/
+
+	#twitter_follow  {float:left; padding: 22px 0 22px 10px;}
 
 /*
  * FancyBox - jQuery Plugin
