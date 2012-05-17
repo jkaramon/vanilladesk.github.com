@@ -1,4 +1,8 @@
 paginate: 4
 paginate_files:
 - news.htm
+rss:
+  name: VanillaDesk - News 
+  url: http://vanilladesk.github.com/news
+
 
