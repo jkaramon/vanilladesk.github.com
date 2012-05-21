@@ -62,7 +62,7 @@ end
 
 task :publish => [:commit, :copy] do
 	FileUtils.cd('_compiled', :verbose => true) do
-		puts `git add . && git commit -m "#{commit_msg}"`
+		puts `git add . && git commit -am "#{commit_msg}"`
 		puts `git push origin master`
 	end
 end
