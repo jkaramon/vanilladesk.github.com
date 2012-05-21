@@ -6,6 +6,53 @@
 <link>http://www.vanilladesk.com</link>
 
 <item>
+<title>Customers can be created directly from tickets</title>
+<description>&lt;p&gt;When creating or editing ticket info, a new customer can be easilly created.
+&lt;/p&gt;
+
+&lt;table style=&quot;border-image: none; width: 100%; border-collapse: collapse; text-align:justify;&quot; frame=&quot;void&quot; rules=&quot;none&quot; border=&quot;0&quot; cellpadding=&quot;5&quot;&gt;&lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;        &lt;span class=&quot;shadow&quot;&gt;
+          &lt;a href=&quot;/images/news/2012-05-18/newCustomer01.PNG &quot; class=&quot;popup&quot;&gt;
+            &lt;img src=&quot;/images/news/2012-05-18/newCustomer01.PNG &quot; class=&quot;shadow&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/span&gt;
+&lt;/td&gt;
+	  &lt;td&gt;
+		&lt;p&gt;
+			To create a new customer, simply click the (+) button right next to the customer selector field. A modal window will open.
+		&lt;/p&gt;
+	  &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+		&lt;p&gt;
+			Specify the customers' &lt;b&gt;name&lt;/b&gt; and select the &lt;b&gt;services&lt;/b&gt;, that will be available to him. &lt;br /&gt; &lt;b&gt;A service-level agreement&lt;/b&gt; (SLA) will automatically be created for each of the selected services, saving even more time configuring. &lt;br /&gt;Additionally, you are also able to create multiple &lt;b&gt;locations&lt;/b&gt; for the customer (if there are more of them).
+		&lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+                &lt;span class=&quot;shadow&quot;&gt;
+          &lt;a href=&quot;/images/news/2012-05-18/newCustomer02.PNG &quot; class=&quot;popup&quot;&gt;
+            &lt;img src=&quot;/images/news/2012-05-18/newCustomer02.PNG &quot; class=&quot;shadow&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/span&gt;
+ 
+		&lt;br /&gt;&lt;br /&gt;
+		        &lt;span class=&quot;shadow&quot;&gt;
+          &lt;a href=&quot;/images/news/2012-05-18/newCustomer03.PNG &quot; class=&quot;popup&quot;&gt;
+            &lt;img src=&quot;/images/news/2012-05-18/newCustomer03.PNG &quot; class=&quot;shadow&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/span&gt;
+
+      &lt;/td&gt;
+	&lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+<published>2012-05-18 00:00:00 +0200</published>
+<link>http://www.vanilladesk.com/2012/05/18/customers-can-be-created-directly-from-tickets.html</link>
+</item>
+
+<item>
 <title>System notifications are now customizable</title>
 <description>&lt;p&gt;Are our default notifications too complicated for your users or you want to adjust them for any other reason ? Now you can.
 &lt;/p&gt;
@@ -344,25 +391,6 @@
 &lt;/p&gt;</description>
 <published>2011-09-17 00:00:00 +0200</published>
 <link>http://www.vanilladesk.com/2011/09/17/Redesigned-ticket-layout-and-functionality.html</link>
-</item>
-
-<item>
-<title>Service management was made simpler and quicker to setup</title>
-<description>&lt;p&gt;&lt;strong&gt;Setting up service management is no longer a task everybody hates to do&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;The arduous task of getting service management up-and-running has been made a bit easier, thanks to the new improvements in service management in VanillaDesk.
-&lt;/p&gt;
-&lt;p&gt;Managing services and their offering to customers has been made simpler. Adding new services is a matter of seconds. Only a few simple steps are required.
-&lt;/p&gt;
-&lt;p&gt;Same &lt;em&gt;&lt;strong&gt;service level agreements&lt;/strong&gt;&lt;/em&gt; (SLAs) can now be defined for multiple customers or even globally for all customers, allowing better scalability. This saves precious time if you offer a small number of services to a large number of customers.
-&lt;/p&gt;
-&lt;p&gt;Another helpful change is, that now every ticket priority, defined in a SLA, can have its own calendar. This is particulary useful, if you offer a 24x7 service availability for urgent issues and only 8x5 for minor ones.
-&lt;/p&gt;
-&lt;p&gt;
-  &lt;br /&gt;
-&lt;/p&gt;</description>
-<published>2011-08-05 00:00:00 +0200</published>
-<link>http://www.vanilladesk.com/2011/08/05/Service-management-was-made-simpler-and-quicker-to-setup.html</link>
 </item>
 
 </channel>
