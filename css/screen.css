@@ -38,8 +38,8 @@
     a.packed {padding-right: 20px; background: transparent url(/images/packed.gif) no-repeat 100% 50%;}
     a.zip {padding-right: 20px; background: transparent url(/images/zip.gif) no-repeat 100% 50%;}
     a.external {padding-right: 12px; background: transparent url(/images/ex.gif) no-repeat 100% 50%;}
-    a.button-greybg, a.button-greenbg {display: block; width: 120px; height: 32px; line-height: 32px; padding: 0 3px 5px 0; margin: 15px auto 15px auto; background: transparent url(/images/button-greybg.gif) no-repeat 0 0; text-decoration: none; font-weight: bold; font-size: 105%; color: #fff; text-align: center;}
-    a.button-greenbg {background: transparent url(/images/button-greenbg.gif) no-repeat 0 0;}
+    a.button-greybg, a.button-greenbg {display: block; width: 180px; height: 32px; line-height: 32px; padding: 0 3px 5px 0; margin: 15px auto 15px auto; background: transparent url(/images/button-greybg.gif) no-repeat 0 0; text-decoration: none; font-weight: bold; font-size: 105%; color: #fff; text-align: center; background-size: 100% 37px; }
+    a.button-greenbg {background: transparent url(/images/button-greenbg.gif) no-repeat 0 0; background-size: 100%; }
     a.popup {}
     a.video {}
     a.hover:hover {opacity:0.8;}
