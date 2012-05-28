@@ -337,7 +337,8 @@
   &lt;li&gt;and you can still&amp;nbsp;&lt;strong&gt;&lt;em&gt;cancel at any time&lt;/em&gt;&lt;/strong&gt; or revert to Free edition&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;
-&lt;/p&gt;</description>
+&lt;/p&gt;
+</description>
 <published>2011-12-01 00:00:00 +0100</published>
 <link>http://www.vanilladesk.com/2011/12/01/Lite-edition-now-available.html</link>
 </item>
@@ -355,7 +356,8 @@
 &lt;p&gt;You are free to try anything in the Demo, but bare in mind, that all Demo accounts are only temporary and no data will persist more than a day.
 &lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Of course, you will not get the full VanillaDesk experience, as there are some technical limitations in what the Demo can show you. To see what is not available, check &lt;a href=&quot;/demo.htm&quot; onclick=&quot;&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;
-&lt;/p&gt;</description>
+&lt;/p&gt;
+</description>
 <published>2011-11-25 00:00:00 +0100</published>
 <link>http://www.vanilladesk.com/2011/11/25/You-can-try-VanillDesk-before-you-register.html</link>
 </item>
@@ -370,7 +372,8 @@
 &lt;/p&gt;
 &lt;p&gt;The major enhancement, however, is the&lt;span class=&quot;strong&quot;&gt; automatic relation creation&lt;/span&gt;. If you mention the ID of a ticket or another VanillaDesk object (even attachments) inside a comment, a relation to this object will automatically be created. This is particulary useful for duplicate ticket, where no complex linking is needed.
   &lt;br /&gt;Also systems from external tickets can be automatically linked this way to decrease ticket administration and improve the resolution times a bit.
-&lt;/p&gt;</description>
+&lt;/p&gt;
+</description>
 <published>2011-10-01 00:00:00 +0200</published>
 <link>http://www.vanilladesk.com/2011/10/01/New-options-for-ticket-relations.html</link>
 </item>
@@ -388,7 +391,8 @@
 &lt;p&gt;To fully support the new concept, we also introduced the &lt;span class=&quot;strong&quot;&gt;perform action panel&lt;/span&gt;. This feature is available on all tickets allows you to make quick, repetitive updates to a ticket as simple as typing an email.&amp;nbsp;&amp;nbsp;Adding a comment, assigning or resolving tickets can now be done in just a few clicks.
 &lt;/p&gt;
 &lt;p&gt;This allowed us to introduce a lot of minor changes. Better attachment handling, displaying times also in relative form (like &quot;one minute ago&quot;), to name just a few.&amp;nbsp;
-&lt;/p&gt;</description>
+&lt;/p&gt;
+</description>
 <published>2011-09-17 00:00:00 +0200</published>
 <link>http://www.vanilladesk.com/2011/09/17/Redesigned-ticket-layout-and-functionality.html</link>
 </item>
