@@ -6,6 +6,82 @@
 <link>http://www.vanilladesk.com</link>
 
 <item>
+<title>Send notifications in multiple languages</title>
+<description>&lt;p&gt;
+If you supply your services to customers in multiple countries, it may not always be appropriate to use English for comunication.&lt;br /&gt;
+Now, you can define notifications for each language your customers use and VanillaDesk will send the correct version to selected customers. 
+&lt;/p&gt;
+
+&lt;table style=&quot;border-image: none; width: 100%; border-collapse: collapse; text-align:justify;&quot; frame=&quot;void&quot; rules=&quot;none&quot; border=&quot;0&quot; cellpadding=&quot;5&quot;&gt;&lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;        &lt;span class=&quot;shadow&quot;&gt;
+          &lt;a href=&quot;/images/news/2012-06-13/notificationLanguages02.PNG &quot; class=&quot;popup&quot;&gt;
+            &lt;img src=&quot;/images/news/2012-06-13/notificationLanguages02.PNG &quot; class=&quot;shadow&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/span&gt;
+&lt;/td&gt;
+      &lt;td&gt;
+	&lt;p&gt;
+	You are able to define a list of languages in the Notification settings that you wish to use.
+	&lt;/p&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;p&gt;
+        In a &lt;b&gt;notification template&lt;/b&gt;, a tab will be created for each language. &lt;br /&gt;Simply define what the notification should look like in the particular language.
+        &lt;/p&gt;
+        &lt;p&gt;
+        We understand, that configuring templates to your liking will take some time, therefore each language within a template can be activated once you are finished with it.
+        &lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+                &lt;span class=&quot;shadow&quot;&gt;
+          &lt;a href=&quot;/images/news/2012-06-13/notificationLanguages01.PNG &quot; class=&quot;popup&quot;&gt;
+            &lt;img src=&quot;/images/news/2012-06-13/notificationLanguages01.PNG &quot; class=&quot;shadow&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/span&gt;
+ 
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+                &lt;span class=&quot;shadow&quot;&gt;
+          &lt;a href=&quot;/images/news/2012-06-13/notificationLanguages04.PNG &quot; class=&quot;popup&quot;&gt;
+            &lt;img src=&quot;/images/news/2012-06-13/notificationLanguages04.PNG &quot; class=&quot;shadow&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/span&gt;
+ 
+      &lt;/td&gt;
+      &lt;td&gt;
+        &lt;p&gt;
+	The language that is used for a customer is selected in his details. All End users of this customer will receive notifications in this language.
+        &lt;/p&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+	&lt;p&gt;
+        Additionally, each &lt;b&gt;Operator&lt;/b&gt; can select which language he wants to receive notifications in.
+        &lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+	        &lt;span class=&quot;shadow&quot;&gt;
+          &lt;a href=&quot;/images/news/2012-06-13/notificationLanguages03.PNG &quot; class=&quot;popup&quot;&gt;
+            &lt;img src=&quot;/images/news/2012-06-13/notificationLanguages03.PNG &quot; class=&quot;shadow&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/span&gt;
+
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+<published>2012-06-13 00:00:00 +0200</published>
+<link>http://www.vanilladesk.com/2012/06/13/send-notifications-in-multiple-languages.html</link>
+</item>
+
+<item>
 <title>Customers can be created directly from tickets</title>
 <description>&lt;p&gt;When creating or editing ticket info, a new customer can be easilly created.
 &lt;/p&gt;
@@ -376,25 +452,6 @@
 </description>
 <published>2011-10-01 00:00:00 +0200</published>
 <link>http://www.vanilladesk.com/2011/10/01/New-options-for-ticket-relations.html</link>
-</item>
-
-<item>
-<title>Redesigned ticket layout and functionality</title>
-<description>&lt;p&gt;The original ticket design and functionality were a bit outdated - redesign was necessary. The new design is simpler, all important info is placed where it is needed and the ticket updating system is also much more intuitive.
-&lt;/p&gt;
-&lt;p&gt;These are the things we improved:
-&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;strong&quot;&gt;Ticket view mode&lt;/span&gt; - each ticket is displayed in what we call a &quot;View mode&quot;. The view mode is easier to read, displays all information for you might need right where you can see it. It no longer allows editing the ticket.
-&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;strong&quot;&gt;Ticket edit mode&lt;/span&gt; - the oposite of the &lt;em&gt;view mode&lt;/em&gt; is the &lt;em&gt;edit mode&lt;/em&gt;. It is triggered every time you need to change a key part of a ticket, such as its subject or description. As these are not changed often, there is no need for them to be changable all the time.&amp;nbsp;
-&lt;/p&gt;
-&lt;p&gt;To fully support the new concept, we also introduced the &lt;span class=&quot;strong&quot;&gt;perform action panel&lt;/span&gt;. This feature is available on all tickets allows you to make quick, repetitive updates to a ticket as simple as typing an email.&amp;nbsp;&amp;nbsp;Adding a comment, assigning or resolving tickets can now be done in just a few clicks.
-&lt;/p&gt;
-&lt;p&gt;This allowed us to introduce a lot of minor changes. Better attachment handling, displaying times also in relative form (like &quot;one minute ago&quot;), to name just a few.&amp;nbsp;
-&lt;/p&gt;
-</description>
-<published>2011-09-17 00:00:00 +0200</published>
-<link>http://www.vanilladesk.com/2011/09/17/Redesigned-ticket-layout-and-functionality.html</link>
 </item>
 
 </channel>
