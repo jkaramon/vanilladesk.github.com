@@ -6,6 +6,86 @@
 <link>http://www.vanilladesk.com</link>
 
 <item>
+<title>Ticket watching enhancements</title>
+<description>&lt;p&gt;
+  Informing people of updates in a VanillaDesk ticket has been made easier. Here are the new features we have introduced:
+&lt;/p&gt;
+
+&lt;table style=&quot;border-image: none; width: 100%; border-collapse: collapse; text-align:justify;&quot; frame=&quot;void&quot; rules=&quot;none&quot; border=&quot;0&quot; cellpadding=&quot;5&quot;&gt;&lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td colspan=2&gt;
+        &lt;h5&gt;Transforming CCs in an email into ticket watchers&lt;/h5&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td colspan=2&gt;
+        &lt;p&gt;
+          Have you ever sent an email to one of your customers/partners and put a lot of people in as CCs just to be aware of this communication? Now, you can create or update tickets in VanillaDesk in the same manner.
+        &lt;/p&gt; 
+        &lt;p&gt;
+          If an email, that is imported into VanillaDesk contains any CCs, the respective users or emails will be marked as watchers of the particular ticket.&lt;br /&gt;This will ensure, that no one will be left out of the loop. 
+        &lt;/p&gt; 
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+	        &lt;span class=&quot;shadow&quot;&gt;
+          &lt;a href=&quot;/images/news/2012-06-27/watchers02.png &quot; class=&quot;popup&quot;&gt;
+            &lt;img src=&quot;/images/news/2012-06-27/watchers02.png &quot; class=&quot;shadow&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/span&gt;
+
+      &lt;/td&gt;
+      &lt;td&gt;
+	        &lt;span class=&quot;shadow&quot;&gt;
+          &lt;a href=&quot;/images/news/2012-06-27/watchers03.png &quot; class=&quot;popup&quot;&gt;
+            &lt;img src=&quot;/images/news/2012-06-27/watchers03.png &quot; class=&quot;shadow&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/span&gt;
+
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td colspan=2&gt;
+        &lt;h5&gt;Making others watch important tickets&lt;/h5&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;      
+      &lt;td colspan=2&gt;
+        &lt;p&gt;
+          When resolving an important ticket, you may find yourself in need of informing other operators about any progress made.
+        &lt;/p&gt;
+        &lt;p&gt;
+          It is now possible to make other people watch the ticket, bringing them into the loop.
+        &lt;/p&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+                &lt;span class=&quot;shadow&quot;&gt;
+          &lt;a href=&quot;/images/news/2012-06-27/watchers04.png &quot; class=&quot;popup&quot;&gt;
+            &lt;img src=&quot;/images/news/2012-06-27/watchers04.png &quot; class=&quot;shadow&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/span&gt;
+
+      &lt;/td&gt;
+      &lt;td&gt;
+	        &lt;span class=&quot;shadow&quot;&gt;
+          &lt;a href=&quot;/images/news/2012-06-27/watchers05.png &quot; class=&quot;popup&quot;&gt;
+            &lt;img src=&quot;/images/news/2012-06-27/watchers05.png &quot; class=&quot;shadow&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/span&gt;
+
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+<published>2012-06-27 00:00:00 +0200</published>
+<link>http://www.vanilladesk.com/2012/06/27/tichet-watching-enhancements.html</link>
+</item>
+
+<item>
 <title>Send notifications in multiple languages</title>
 <description>&lt;p&gt;
 If you supply your services to customers in multiple countries, it may not always be appropriate to use English for comunication.&lt;br /&gt;
@@ -436,22 +516,6 @@ Now, you can define notifications for each language your customers use and Vanil
 </description>
 <published>2011-11-25 00:00:00 +0100</published>
 <link>http://www.vanilladesk.com/2011/11/25/You-can-try-VanillDesk-before-you-register.html</link>
-</item>
-
-<item>
-<title>New options for ticket relations</title>
-<description>&lt;p&gt;Relating tickets to one another has been made easier to both internal objects and now also external systems. Additionally, not only manually created relations have been improved, but VanillaDesk can now create relations automatically based on specific criteria.&amp;nbsp;
-&lt;/p&gt;
-&lt;p&gt;We introduced the ability to create ticket relations using &lt;span class=&quot;strong&quot;&gt;drag &amp;amp; drop&lt;/span&gt;. When viewing a ticket, to create a relation, simply by drag a ticket from the sidebar (tickets in your inbox, your recent items) and drop it into the relations.
-&lt;/p&gt;
-&lt;p&gt;To improve system integration, also tickets from &lt;span class=&quot;strong&quot;&gt;external web-based systems&lt;/span&gt; can be linked, to help operators in the resolution.
-&lt;/p&gt;
-&lt;p&gt;The major enhancement, however, is the&lt;span class=&quot;strong&quot;&gt; automatic relation creation&lt;/span&gt;. If you mention the ID of a ticket or another VanillaDesk object (even attachments) inside a comment, a relation to this object will automatically be created. This is particulary useful for duplicate ticket, where no complex linking is needed.
-  &lt;br /&gt;Also systems from external tickets can be automatically linked this way to decrease ticket administration and improve the resolution times a bit.
-&lt;/p&gt;
-</description>
-<published>2011-10-01 00:00:00 +0200</published>
-<link>http://www.vanilladesk.com/2011/10/01/New-options-for-ticket-relations.html</link>
 </item>
 
 </channel>
