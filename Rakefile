@@ -29,7 +29,7 @@ task :build => :chcp do
 end
 
 
-
+desc "commit changes but do not publish"
 task :commit => :build do
 	info "Commiting changes into source branch ..."
 	`git status`
@@ -60,6 +60,7 @@ task :clone do
 	delete "_compiled"
 end
 
+desc "Commit and publish a new version to the www.vanilladesk.com"
 task :publish => [:commit, :copy] do
 	FileUtils.cd('_compiled', :verbose => true) do
 		puts `git add . && git commit -am "#{commit_msg}"`
