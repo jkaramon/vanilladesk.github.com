@@ -1,7 +1,8 @@
 ---
 title: Ticket Management - VanillaDesk
 header: Ticket Management in VanillaDesk
-layout: new-default 
+layout: new-default
+norobots: true
 ---
 
 [TODO: Ticket Concept Excerpt]
