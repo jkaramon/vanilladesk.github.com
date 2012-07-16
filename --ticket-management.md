@@ -17,7 +17,7 @@ Users spent most time on working with tickets. We are constantly focusing in mak
 Sure, we have ITIL based ServiceDesk, we have multiple time zones, multiple working hours, customizable and localizable notifications, SLA per service and/or customer,  escalations, ticket prioritization, tickets created from emails, user portal, etc.  
 But these these 'advanced' features should not hinder daily usage or make setup more complicated.
 
-Let's see some of features, that are there to make  with application more pleasant.
+Let's see some of features, that are there to make work with application more pleasant.
 
 ## Attachment Upload ##
 We provide several methods for adding attachments and screenshots to tickets. 
