@@ -29,6 +29,12 @@ task :build => :chcp do
 end
 
 
+desc "Compile Less files into css"
+task :less do
+	`lessc css/page.less css/page.css`	
+end
+
+
 desc "commit changes but do not publish"
 task :commit => :build do
 	info "Commiting changes into source branch ..."

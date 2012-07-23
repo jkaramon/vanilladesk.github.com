@@ -1,6 +1,8 @@
+require_relative 'tag_utils'
 module Jekyll
 
   class ImgTag < Liquid::Tag
+    include TagUtils
     def initialize(tag_name, text, tokens)
       super
       @text = text

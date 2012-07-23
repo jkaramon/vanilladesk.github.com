@@ -1,6 +1,9 @@
+require_relative 'tag_utils'
 module Jekyll
-
   class VideoTag < Liquid::Tag
+
+    include TagUtils
+
     def initialize(tag_name, text, tokens)
       super
       @text = text
@@ -8,8 +11,11 @@ module Jekyll
     end
 
     def render(context)
-      src = "/videos/#{@text}".strip
-      id = @text.gsub(/\W/, "-")
+      name, params = params_from_text
+      src = "/videos/#{name}".strip
+      id = name.gsub(/\W/, "-")
+      width = params[:width] || 320
+      height = params[:height] || 200
       <<-eos
         <div class="jwvideo">
         <embed
@@ -19,8 +25,8 @@ module Jekyll
           id="#{id}"
           name="#{id}"
           src="/jwplayer/player.swf"
-          width="640"
-          height="480"
+          width="#{width}"
+          height="#{height}"
         />
         </div>
       eos

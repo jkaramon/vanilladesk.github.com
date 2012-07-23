@@ -7,7 +7,8 @@ norobots: true
 
 [TODO: Ticket Concept Excerpt]
 
-Ticketing concept is described more detailed in our [wiki][ticket-concept]. 
+Ticketing concept is described more detailed in our [wiki](http://wiki.vanilladesk.com/display/doc/Ticket). 
+
 
 Nifty Features in Ticket Management
 ===================================
@@ -72,4 +73,4 @@ watcher is added to ticket
 
 
 
-[ticket-concept]: http://wiki.vanilladesk.com/display/doc/Ticket
+
