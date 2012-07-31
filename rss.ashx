@@ -6,6 +6,35 @@
 <link>http://www.vanilladesk.com</link>
 
 <item>
+<title>VanillaDesk successfully migrated to recurly.com</title>
+<description>&lt;table style=&quot;border-image: none; width: 100%; border-collapse: collapse; text-align:justify;&quot; frame=&quot;void&quot; rules=&quot;none&quot; border=&quot;0&quot; cellpadding=&quot;5&quot;&gt;&lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+	&lt;a href=&quot;http://recurly.com&quot;&gt;
+	  &lt;img src=&quot;http://recurly.com/images/redo/medium-logo.png&quot; alt=&quot;recurly.com&quot;/&gt;
+	&lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+	VanillaDesk billing has been migrated to &lt;a href=&quot;http://recurly.com&quot;&gt;recurly.com&lt;/a&gt; - a more secure and efficient billing platform.
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td colspan=2&gt;
+        &lt;p&gt;
+          We would like to thank to all our customers for their cooperation in this matter and hope the one month of free service was worth the effort :-) 
+        &lt;/p&gt;
+        &lt;p&gt;
+          &lt;i&gt;&lt;b&gt;Big thanks to all of you!&lt;/b&gt;&lt;/i&gt;
+        &lt;/p&gt; 
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+<published>2012-07-31 00:00:00 +0200</published>
+<link>http://www.vanilladesk.com/2012/07/31/vanilladesk-successfully-migrated-to-recurly.com.html</link>
+</item>
+
+<item>
 <title>Ticket watching enhancements</title>
 <description>&lt;p&gt;
   Informing people of updates in a VanillaDesk ticket has been made easier. Here are the new features we have introduced:
@@ -497,25 +526,6 @@ Now, you can define notifications for each language your customers use and Vanil
 </description>
 <published>2011-12-01 00:00:00 +0100</published>
 <link>http://www.vanilladesk.com/2011/12/01/Lite-edition-now-available.html</link>
-</item>
-
-<item>
-<title>You can try VanillDesk before you register</title>
-<description>&lt;p&gt;&lt;span class=&quot;strong&quot;&gt;We have prepared a Demo of VanillaDesk for you to explore. &lt;/span&gt;
-&lt;/p&gt;
-&lt;p&gt;Are you new to VanillaDesk ? Don't know how it works ? You are now able to find out without registration. We are proud to present the demo of VanillaDesk.
-&lt;/p&gt;
-&lt;p&gt;It is quick and there is no need for you to give away any personal data.
-&lt;/p&gt;
-&lt;p&gt;Simply visit the &lt;a href=&quot;/demo.htm&quot; onclick=&quot;&quot;&gt;Demo site&lt;/a&gt; and request an account. You will be prompted for your name and that's it! You can start checking out how VanillaDesk works.
-&lt;/p&gt;
-&lt;p&gt;You are free to try anything in the Demo, but bare in mind, that all Demo accounts are only temporary and no data will persist more than a day.
-&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Of course, you will not get the full VanillaDesk experience, as there are some technical limitations in what the Demo can show you. To see what is not available, check &lt;a href=&quot;/demo.htm&quot; onclick=&quot;&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;
-&lt;/p&gt;
-</description>
-<published>2011-11-25 00:00:00 +0100</published>
-<link>http://www.vanilladesk.com/2011/11/25/You-can-try-VanillDesk-before-you-register.html</link>
 </item>
 
 </channel>
