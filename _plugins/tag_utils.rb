@@ -18,7 +18,6 @@ module TagUtils
       end
       hash[key] = val
     end
-    puts hash.inspect
     [name, hash]
   end
 

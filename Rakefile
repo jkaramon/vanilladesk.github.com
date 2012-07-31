@@ -25,7 +25,7 @@ end
 
 task :build => :chcp do
 	info "Compiling site ..."
-	`jekyll`	
+	`bundle exec jekyll`	
 end
 
 
@@ -83,7 +83,7 @@ end
 
 task :run => :chcp do
     puts '* Running Jekyll'
-    sh "jekyll --server --auto"
+    sh "bundle exec jekyll --server --auto"
 end
 
 

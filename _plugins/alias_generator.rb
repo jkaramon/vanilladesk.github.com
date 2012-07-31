@@ -54,6 +54,7 @@ module Jekyll
       alias_paths ||= Array.new
       alias_paths << aliases
       alias_paths.compact!
+      
       alias_paths.flatten.each do |alias_path|
         # If alias_path has an extension, we'll write the alias file
         # directly to that path.  Otherwise, we'll assume that the
@@ -61,16 +62,18 @@ module Jekyll
         # index.html file.
         alias_dir = File.extname(alias_path).empty? ? alias_path : File.dirname(alias_path)
         alias_file = File.extname(alias_path).empty? ? "index.html" : File.basename(alias_path)
-
+        
+       
         fs_path_to_dir = File.join(@site.dest, alias_dir)
-        alias_index_path = File.join(alias_dir, alias_file)
+        alias_index_path = File.join(alias_dir, alias_file).gsub(/^\.\//, "")
+
 
         FileUtils.mkdir_p(fs_path_to_dir)
 
         File.open(File.join(fs_path_to_dir, alias_file), 'w') do |file|
           file.write(alias_template(destination_path))
         end
-
+        
         (alias_index_path.split('/').size + 1).times do |sections|
           @site.static_files << Jekyll::AliasFile.new(@site, @site.dest, alias_index_path.split('/')[0, sections].join('/'), nil)
         end
