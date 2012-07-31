@@ -36,7 +36,7 @@
     img.right {margin: 0.5em 0 10px 30px;}
     img.left {margin: 5.5em 30px 10px 0;}
     img.border {border: 1px solid #ccc; padding: 3px;}
-    img.shadow {box-shadow: 5px 5px 10px #aaa; -webkit-box-shadow: 5px 5px 10px #aaa;}
+    img.shadow {box-shadow: 5px 5px 10px #aaa; -webkit-box-shadow: 5px 5px 10px #aaa; border: 1px solid white; }
 
 
     
