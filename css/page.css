@@ -1,0 +1,37 @@
+.cnt {
+  float: none;
+  wdth: 700px;
+  margin: 1em;
+}
+
+.cnt > p {
+   width: 500px;
+}
+
+.cnt.left > p {
+   float: left;
+}
+.cnt.right > p {
+   float: right;
+}
+.cnt > .jwvideo,
+.cnt > .image-container {
+  display: inline-block;
+}
+.cnt.left > .jwvideo,
+.cnt.left > .image-container {
+  float: right;
+}
+.cnt.right > .jwvideo,
+.cnt.right > .image-container {
+  float: left;
+}
+
+.cnt:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
