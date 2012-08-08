@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
   <head> 
-    <title>Free ServiceDesk - VanillaDesk</title>
+    <title>Ticket Management - VanillaDesk</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="description" content=" VanillaDesk is integrated Service Desk software for effective IT Service Management provided as a service (SaaS).">
 <meta name="keywords" content=" service desk software, itil service desk">
@@ -115,7 +115,7 @@ easingOut:"swing",showCloseButton:true,showNavArrows:true,enableEscapeButton:tru
     <link href="/css/page.css" type="text/css" rel="stylesheet">
   </head>
 
-  <body class=" simple">
+  <body class="">
 
     <a href="#start" class="hidden">Skip to page content</a>
     <div id="">
@@ -190,40 +190,277 @@ easingOut:"swing",showCloseButton:true,showNavArrows:true,enableEscapeButton:tru
         <div id="body">
 
 
+        <div id="page-title" class="no-submenu">
+          <h1>
+            Ticket Management in VanillaDesk
+          </h1>
+        </div>
+
         <div class="product_small-content">
           <div class="intro">
-<p><img src="images/free.jpg" class="main-img" title="Free servicedesk" alt="Free servicedesk" /></p>
-<h1>Searching for a <span class="caps">REALLY</span> <span class="caps">FREE</span> servicedesk solution for your IT support team?</h1>
-<h2>Stop searching, you found one!</h2>
+<p>[<span class="caps">TODO</span>: Ticket Concept Excerpt]</p>
+<p>Ticketing concept is described more detailed in our <a href="(http://wiki.vanilladesk.com/display/doc/Ticket)">wiki</a>.</p>
 </div>
+<h2>Nifty Features in Ticket Management</h2>
+<p>Our primary goal is to provide an easy to understand and easy to use product.<br />
+Not hard to figure out &#8211; users spend the most time on working with tickets.<br />
+Therefore we try constantly to make a ticket management process as simple as possible.</p>
+<p>Sure, we have <span class="caps">ITIL</span> based ServiceDesk, we have multiple time zones, multiple working hours, <br />
+customizable and localizable notifications, <span class="caps">SLA</span> per service and/or customer, <br />
+escalations, ticket prioritization, tickets created from emails, user portal, etc.  <br />
+But these these &#8216;advanced&#8217; features should not hinder daily usage or make setup more complicated.</p>
+<p>Let&#8217;s see some of features that are there to make work with the application more pleasant.</p>
+<h2>Attachment Upload</h2>
+<p>We provide several methods for adding attachments and screenshots to tickets. <br />
+Some of them are available only if you are using Chrome or Firefox browser.</p>
 <div class="cnt left">
-<h2>The best servicedesks in life are <span class="caps">FREE</span>!</h2>
-<p>It is really <span class="caps">FREE</span> and you can start using it immediately.</p>
-<ul>
-	<li>unlimited number of users</li>
-	<li>unlimited number of customers</li>
-	<li>unlimited number of tickets</li>
-</ul>
-<div class="signup">
-<p class="register"><a href="https://my.vanilladesk.com/register">Signup now for free trial!</a></p>
-<p class="demo">If unsure try our <a href="/demo.htm"><span class="caps">DEMO</span></a> first. <br />
-No registration necessary.</p>
+<h3>Upload image from a clipboard</h3>
+<p>Create screenshot and paste it over ticket detail page. Then you may optionally annotate image and <br />
+add it as an attachment to the ticket. This method is useful if you want quickly append screenshot to the ticket.</p>
+        <div class="jwvideo ">
+
+        <embed
+          flashvars="file=/videos/ticket-management/clipboard.mp4&autostart=false&image=/videos/ticket-management/clipboard.png"
+          allowfullscreen="true"
+          allowscripaccess="always"
+          id="ticket-management-clipboard"
+          name="ticket-management-clipboard"
+          src="/jwplayer/player.swf"
+          width="320"
+          height="200"
+        />
+        </div>
+
 </div>
+<div class="cnt right">
+<h3>Drag and drop upload</h3>
+<p>Drag one or more files and upload them by dropping them over defined area.</p>
+        <div class="jwvideo ">
+
+        <embed
+          flashvars="file=/videos/ticket-management/dragdrop.mp4&autostart=false&image=/videos/ticket-management/dragdrop.png"
+          allowfullscreen="true"
+          allowscripaccess="always"
+          id="ticket-management-dragdrop"
+          name="ticket-management-dragdrop"
+          src="/jwplayer/player.swf"
+          width="320"
+          height="200"
+        />
+        </div>
+
 </div>
+<p>In all browsers is of course supported a standard file dialog to attach files.</p>
+<h2>Hypertext in comments and ticket description</h2>
 <div class="cnt left">
-<h2>This servicedesk will remain <span class="caps">FREE</span>!</h2>
-<p>This is no “beta” or “market introduction” period, during which our servicedesk is free, but you will have to pay afterwards. It will remain free.</p>
+<p>Tickets comments and description fields have some unique features.   <br />
+If you mention some entity (attachment, other tickets, person, customer, service … ) via its id <br />
+while typing description or comment, this pattern is automatically recognized and displayed as link with tooltip.  <br />
+If you mention other ticket id, there is another hidden gem. Mentioned ticket will be added as related <br />
+and displayed in Ticket Relations panel!</p>
+        <div class="jwvideo ">
+
+        <embed
+          flashvars="file=/videos/ticket-management/hypertext.mp4&autostart=false&image=/videos/ticket-management/hypertext.png"
+          allowfullscreen="true"
+          allowscripaccess="always"
+          id="ticket-management-hypertext"
+          name="ticket-management-hypertext"
+          src="/jwplayer/player.swf"
+          width="320"
+          height="200"
+        />
+        </div>
+
 </div>
-<div class="cnt left">
-<h2>Risk <span class="caps">FREE</span>!</h2>
-<p>And if you don’t like it? Let us know and we will do our best to make you like it :-)</p>
-<p>And if you really, really don’t like it? Well, sorry about that, but&#8230; Data is yours. And we will even help you to understand the data so you can import it to something you like more.</p>
+<h2>Email Integration</h2>
+<div class="cnt right">
+<p>You may create tickets if you send mail to the configured mailbox.  <br />
+You may add comment via email if you reply to the notification or escalation email<br />
+or if you mention ticket id in email subject.  <br />
+        <div class="shadow image-container"><br />
+          <a href="/images/ticket-management/email-reply.png " class="popup"><br />
+            <img src="/images/ticket-management/email-reply.png " class="shadow" /><br />
+          </a></p>
+</div>
+</div>
+<div class="cnt right">
+<p>Extracted email body will be added as a comment to the ticket. <br />
+        <div class="shadow image-container"><br />
+          <a href="/images/ticket-management/email-imported.png " class="popup"><br />
+            <img src="/images/ticket-management/email-imported.png " class="shadow" /><br />
+          </a></p>
+</div>
+</div>
+<p>Email integration is described more detailed in our <a href="(http://wiki.vanilladesk.com/display/doc/Email+Import)">wiki</a>.</p>
+<h2>Ticket Watchers</h2>
+<p>Ticket watchers are actors that are not directly involved in ticket resolution, but they are interested <br />
+in ticket progress updates.</p>
+<p>You may watch particular ticket or add other watchers.  <br />
+Moreover, add watchers as a plain email address. Then public (end user) notifications will be sent to this address.</p>
+<p>If you&#8217;ve still not impressed &#8211; add a ticket comment via email and add someone to CC field, <br />
+this email address will be added as a ticket watcher!</p>
+<div class="cnt right">
+
+<h3>Example: ###</h3>
+<p>Add raw email address  as CC to the email and send it to the configured email account.</p>
+<div class="shadow image-container">
+<a href="/images/ticket-management/email-reply.png " class="popup">
+<img src="/images/ticket-management/email-reply.png " class="shadow" />
+</a>
+</div>
+</div>
+<div class="cnt right">
+<p>After sucessfull import, email address is added as an watcher to the ticket. <br />
+This email will be notified about important changes of this ticket.</p>
+<div class="shadow image-container">
+<a href="/images/ticket-management/watcher.png " class="popup">
+<img src="/images/ticket-management/watcher.png " class="shadow" />
+</a>
+</div>
 </div>
 
         </div>
       </div>
 
 
+      <div id="footer-cont">
+        <div id="footer">
+          <div id="footer-news">
+            <h6> News</h6>
+            
+<p>
+  <span class="footernews-date">July 31, 2012</span> 
+  <a href="/2012/07/31/vanilladesk-successfully-migrated-to-recurly.com.html">VanillaDesk successfully migrated to recurly.com </a>
+</p>
+
+<p>
+  <span class="footernews-date">June 27, 2012</span> 
+  <a href="/2012/06/27/tichet-watching-enhancements.html">Ticket watching enhancements </a>
+</p>
+
+<p>
+  <span class="footernews-date">June 13, 2012</span> 
+  <a href="/2012/06/13/send-notifications-in-multiple-languages.html">Send notifications in multiple languages </a>
+</p>
+
+<p>
+  <span class="footernews-date">May 18, 2012</span> 
+  <a href="/2012/05/18/customers-can-be-created-directly-from-tickets.html">Customers can be created directly from tickets </a>
+</p>
+
+
+
+ 
+          </div>
+          <div id="footermenu">
+            <h6>Site map
+</h6>
+
+<div class="footmap">
+  <div class="AspNet-Menu-Horizontal">
+    <ul class="AspNet-Menu">
+      <li class="AspNet-Menu-Leaf-Selected">
+        <a href="/home.htm" class="AspNet-Menu-Link" title="Home">
+          Home
+        </a>
+      </li>
+      <li class="AspNet-Menu-WithChildren">
+        <a href="/service-desk-software.htm" class="AspNet-Menu-Link" title="VanillaDesk">
+          Features
+        </a>
+        <ul>
+          <li class="AspNet-Menu-Leaf">
+            <a href="/service-desk-software.htm" class="AspNet-Menu-Link">
+              Feature summary
+            </a>
+          </li>
+          <li class="AspNet-Menu-Leaf">
+            <a href="/demo.htm" class="AspNet-Menu-Link">
+              Demo
+            </a>
+          </li>
+          <li class="AspNet-Menu-Leaf">
+            <a href="/trial.htm" class="AspNet-Menu-Link">
+              Trial
+            </a>
+          </li>
+          <li class="AspNet-Menu-Leaf">
+            <a href="/free-service-desk-software.htm" class="AspNet-Menu-Link">
+              Free Edition
+            </a>
+          </li>
+        </ul>
+      </li>
+      <li class="AspNet-Menu-WithChildren">
+        <a href="/service-desk-software-pricing.htm" class="AspNet-Menu-Link" title="Pricing">
+          Pricing
+        </a>
+        <ul>
+          <li class="AspNet-Menu-Leaf">
+            <a href="/service-desk-software-pricing.htm" class="AspNet-Menu-Link" title="Overview">
+              Overview
+            </a>
+          </li>
+        </ul>
+      </li>
+      <li class="AspNet-Menu-WithChildren">
+        <a href="/gallery.htm" class="AspNet-Menu-Link" title="Galery">
+          Screenshots
+        </a>
+        <ul>
+          <li class="AspNet-Menu-Leaf">
+            <a href="/gallery.htm" class="AspNet-Menu-Link" title="Screenshots">
+              Screenshots
+            </a>
+          </li>
+        </ul>
+      </li>
+      <li class="AspNet-Menu-Leaf">
+        <a href="/news.htm" class="AspNet-Menu-Link" title="News/Events">
+          News
+        </a>
+      </li>
+      <li class="AspNet-Menu-WithChildren">
+        <a href="/service-desk-software-support.htm" class="AspNet-Menu-Link" title="Support">
+          Support
+        </a>
+        <ul>
+          <li class="AspNet-Menu-Leaf">
+            <a href="/service-desk-software-support.htm" class="AspNet-Menu-Link" title="Customer Support">
+              Customer Support
+            </a>
+          </li>
+          <li class="AspNet-Menu-Leaf">
+            <a href="/faq.htm" class="AspNet-Menu-Link" title="FAQ">
+              FAQ
+            </a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+
+  </div>
+</div>
+ 
+
+          </div>
+          <div id="bottom">
+            <div class="left">
+  <p><a href="/">Home</a> <a href="/privacy.htm">Privacy</a>&nbsp;<a href="/tos.htm" onclick="">Terms of Service</a>&nbsp;<a href="/contact.htm">Contact</a>
+    <br>Copyright&nbsp;©&nbsp;2010-2012 VanillaDesk Ltd. – All rights reserved.
+  </p>
+
+</div>
+<div class="right">
+
+</div>
+<br class="clear">
+
+  
+          </div>
+        </div>
+      </div>
     </div>
 
 
