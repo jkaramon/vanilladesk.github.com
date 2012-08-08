@@ -1,17 +1,97 @@
+body.simple {
+  background: #FFF repeat-x 0 0 url('/images/bg-simple.gif');
+}
+body.simple #menu {
+  background: none;
+}
+body.simple #body .product_small-content {
+  padding-top: 35px;
+}
+.main-img {
+  float: left;
+}
+.intro h1, .intro h2 {
+  text-align: center;
+}
+.intro p {
+  margin: 0;
+  padding: 0;
+}
+
+.intro:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
+
+
 .cnt {
   float: none;
-  wdth: 700px;
+  position: relative;
+  width: 900px;
   margin: 1em;
+  color: #000;
+  font-size: 110%;
+}
+.cnt ul {
+  margin-left: 2em;
+}
+.cnt li {
+  list-style: disc;
+  background: none;
+  padding: 0;
+}
+.cnt h2, .cnt h3, .cnt h4 {
+  color: #6D6D6D;
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Arial, sans-serif;
+  margin: 1em 0 .1em 0;
+}
+.cnt h4 {
+  font-size: 100%;
 }
 
-.cnt > p {
-   width: 500px;
+.cnt > .signup {
+  position: absolute;
+  right: 50px;
+  top: 10px;
+  width: 300px;
+}
+.register a {
+  font-weight: bold;
+  display: inline-block;
+  color: white;
+  background-color: #A0000F;
+  padding: .4em .8em .6em .8em;
+  -moz-border-radius: 18px;
+  -webkit-border-radius: 18px;
+  border-radius: 18px;
+  -moz-border-radius: 18px;
+  -webkit-border-radius: 18px;
+  border-radius: 18px;
+  margin: 0;
+  }
+.register a:hover {
+  background-color: #EE000F;
+  text-decoration: none;
+}
+.demo, .register {
+  margin: 9px 0;
+  text-align: center;
 }
 
-.cnt.left > p {
+
+.cnt > p, .cnt > ul, .cnt > ol {
+   width: 520px;
+}
+
+.cnt.left > p, .cnt.left > ul, .cnt.left > ol {
    float: left;
 }
-.cnt.right > p {
+.cnt.right > p, .cnt.right > ul, .cnt.right > ol {
    float: right;
 }
 .cnt > .jwvideo,
