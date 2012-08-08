@@ -17,7 +17,8 @@ module Jekyll
       width = params[:width] || 320
       height = params[:height] || 200
       <<-eos
-        <div class="jwvideo">
+        <div class="jwvideo #{params[:class]}">
+
         <embed
           flashvars="file=#{src}.mp4&autostart=false&image=#{src}.png"
           allowfullscreen="true"

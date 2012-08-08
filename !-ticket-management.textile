@@ -1,0 +1,49 @@
+---
+title: Ticket Management - VanillaDesk
+layout: simple
+norobots: true
+---
+
+<div class="intro">
+<notextile>
+{% video ticket-management/dragdrop class=main-img width=480 height=300 %}
+</notextile>
+
+h1. Ticket management should be fun!
+
+h2. See some of ticket management 
+nifty features 
+
+</div>
+
+<div class="cnt left">
+
+h2. Ticket management should be easy!
+
+* Quick and simple ticket creation
+* Easy and powerful attachment handling
+* Automatically recognized ticket relations
+* and much more ... 
+
+<div class="signup">
+p(register). "Signup now for free trial!":https://my.vanilladesk.com/register
+
+p(demo). If unsure try our "DEMO":/demo.htm first. 
+No registration necessary.
+
+</div>
+
+</div>
+
+<div class="cnt left">
+
+h2. You may create and update tickets via email!
+* Create tickets from email
+* Add ticket comment via email
+* Add ticket watcher by 
+
+
+
+
+</div>
+

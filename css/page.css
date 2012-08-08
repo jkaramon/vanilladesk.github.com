@@ -27,15 +27,16 @@ body.simple #body .product_small-content {
 }
 
 
-
+.simple .cnt {
+  font-size: 110%;
+  color: #000;
+}
 .cnt {
   float: none;
   position: relative;
   width: 900px;
   margin: 1em;
-  color: #000;
-  font-size: 110%;
-}
+ }
 .cnt ul {
   margin-left: 2em;
 }
@@ -83,8 +84,11 @@ body.simple #body .product_small-content {
   text-align: center;
 }
 
-
 .cnt > p, .cnt > ul, .cnt > ol {
+   width: 500px;
+}
+
+.simple .cnt > p, .simple .cnt > ul, .simple .cnt > ol {
    width: 520px;
 }
 
