@@ -6,5 +6,6 @@ url: http://www.vanilladesk.com
 rss:
   name: VanillaDesk - News 
   feed_page: feed.xml
-
+exclude: 
+- vendor
 

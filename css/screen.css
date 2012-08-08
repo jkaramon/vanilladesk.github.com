@@ -39,7 +39,9 @@
     img.shadow {box-shadow: 5px 5px 10px #aaa; -webkit-box-shadow: 5px 5px 10px #aaa; border: 1px solid white; }
 
 
-    
+    #signin {
+      white-space: nowrap;
+    }
     a.pdf {padding-right: 18px; background: transparent url(/images/pdf.gif) no-repeat 100% 50%;}
     a.word {padding-right: 20px; background: transparent url(/images/doc.gif) no-repeat 100% 50%;}
     a.excel {padding-right: 20px; background: transparent url(/images/xls.gif) no-repeat 100% 50%;}
