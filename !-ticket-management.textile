@@ -21,12 +21,13 @@ nifty features
 h2. Ticket management should be easy!
 
 * Quick and simple ticket creation
-* Easy and powerful attachment handling
-* Automatically recognized ticket relations
+* Drag & drop attachments to your tickets
+* Paste screenshots and pictures directly 
+* Create relations to other tickets
 * and much more ... 
 
 <div class="signup">
-p(register). "Signup now for free trial!":https://my.vanilladesk.com/register
+p(register). "Signup now for FREE edition!":https://my.vanilladesk.com/register
 
 p(demo). If unsure try our "DEMO":/demo.htm first. 
 No registration necessary.
@@ -40,7 +41,7 @@ No registration necessary.
 h2. You may create and update tickets via email!
 * Create tickets from email
 * Add ticket comment via email
-* Add ticket watcher by adding her email address to CC field
+* Add ticket watcher by adding his email address to CC field
 
 
 
