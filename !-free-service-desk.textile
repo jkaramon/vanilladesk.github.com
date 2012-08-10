@@ -23,7 +23,7 @@ It is really FREE and you can start using it immediately.
 * unlimited number of tickets
 
 <div class="signup">
-p(register). "Signup now for free trial!":https://my.vanilladesk.com/register
+p(register). "Signup now for FREE!":https://my.vanilladesk.com/register
 
 p(demo). If unsure try our "DEMO":/demo.htm first. 
 No registration necessary.
