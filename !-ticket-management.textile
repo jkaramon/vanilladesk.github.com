@@ -26,7 +26,7 @@ h2. Ticket management should be easy!
 * and much more ... 
 
 <div class="signup">
-p(register). "Signup now for FREE edition!":https://my.vanilladesk.com/register
+p(register). "Signup now for FREE!":https://my.vanilladesk.com/register
 
 p(demo). If unsure try our "DEMO":/demo.htm first. 
 No registration necessary.
