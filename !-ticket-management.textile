@@ -11,8 +11,7 @@ norobots: true
 
 h1. Ticket management should be fun!
 
-h2. See some of ticket management 
-nifty features 
+h2. See some of ticket management<br>nifty features 
 
 </div>
 
