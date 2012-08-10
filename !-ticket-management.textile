@@ -6,7 +6,7 @@ norobots: true
 
 <div class="intro">
 <notextile>
-{% video ticket-management/dragdrop class=main-img width=480 height=300 %}
+{% video https://s3.amazonaws.com/media.vanilladesk.com/ticket-management class=main-img width=480 height=300 %}
 </notextile>
 
 h1. Ticket management should be fun!
@@ -40,8 +40,7 @@ No registration necessary.
 h2. You may create and update tickets via email!
 * Create tickets from email
 * Add ticket comment via email
-* Add ticket watcher by 
-
+* Add ticket watcher by adding her email address to CC field
 
 
 

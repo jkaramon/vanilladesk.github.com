@@ -12,7 +12,11 @@ module Jekyll
 
     def render(context)
       name, params = params_from_text
-      src = "/videos/#{name}".strip
+      if name.start_with? "http"
+        src = name
+      else
+        src = "/videos/#{name}".strip 
+      end
       id = name.gsub(/\W/, "-")
       width = params[:width] || 320
       height = params[:height] || 200
