@@ -1,0 +1,51 @@
+---
+title: Free ServiceDesk - VanillaDesk
+layout: simple
+---
+
+<div class="intro">
+
+!(main-img)images/free.jpg(Free servicedesk)!  
+
+h1. Searching for a REALLY FREE servicedesk solution for your IT support team?
+
+h2. Stop searching, you found one!
+
+</div>
+
+<div class="cnt left">
+h2. The best servicedesks in life are FREE!
+
+It is really FREE and you can start using it immediately.
+* unlimited number of users
+* unlimited number of customers
+* unlimited number of tickets
+
+<div class="signup">
+p(register). "Signup now for FREE!":https://my.vanilladesk.com/register
+
+p(demo). If unsure try our "DEMO":/demo.htm first. 
+No registration necessary.
+
+</div>
+
+
+
+</div>
+
+<div class="cnt left">
+h2. This servicedesk will remain FREE!
+
+This is no “beta” or “market introduction” period, during which our servicedesk is free, but you will have to pay afterwards. It will remain free.
+
+</div>
+
+<div class="cnt left">
+h2. Risk FREE!
+
+And if you don’t like it? Let us know and we will do our best to make you like it :-)
+
+And if you really, really don’t like it? Well, sorry about that, but... Data is yours. And we will even help you to understand the data so you can import it to something you like more.
+
+</div>
+
