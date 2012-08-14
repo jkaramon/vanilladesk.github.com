@@ -1,5 +1,5 @@
 ---
-title: Free ServiceDesk - VanillaDesk
+title: Free Service Desk - VanillaDesk
 layout: simple
 keywords: free trial period ticket management service desk servicedesk help helpdesk easy simple
 meta_description: Totally free cloud based service desk! 
@@ -9,7 +9,7 @@ meta_description: Totally free cloud based service desk!
 
 !(main-img)images/free.jpg(Free servicedesk)!  
 
-h1. Searching for a REALLY FREE servicedesk solution for your IT support team?
+h1. Searching for a REALLY FREE service desk solution for your IT support team?
 
 h2. Stop searching, you found one!
 
@@ -38,7 +38,7 @@ No registration necessary.
 <div class="cnt left">
 h2. This servicedesk will remain FREE!
 
-This is no “beta” or “market introduction” period, during which our servicedesk is free, but you will have to pay afterwards. It will remain free.
+This is no “beta” or “market introduction” period, during which our service desk is free, but you will have to pay afterwards. It will remain free.
 
 </div>
 
