@@ -1,6 +1,8 @@
 ---
-title: Ticket Management - VanillaDesk
+title: Ticket Management with Ease - VanillaDesk
 layout: simple
+keywords: ticket management service desk servicedesk help helpdesk easy simmple incident request email features review comparison
+meta_description: Full featured, easy to use cloud based ticket management 
 ---
 
 <div class="intro">
@@ -43,5 +45,8 @@ h2. You may create and update tickets via email!
 
 
 
+</div>
+
+<div class="footer">
 </div>
 

@@ -1,6 +1,8 @@
 ---
 title: Free ServiceDesk - VanillaDesk
 layout: simple
+keywords: free trial period ticket management service desk servicedesk help helpdesk easy simple
+meta_description: Totally free cloud based service desk! 
 ---
 
 <div class="intro">
