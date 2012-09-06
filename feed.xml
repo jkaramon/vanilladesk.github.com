@@ -6,6 +6,34 @@
 <link>http://www.vanilladesk.com</link>
 
 <item>
+<title>New VanillaDesk Youtube channel</title>
+<description>&lt;table style=&quot;border-image: none; width: 100%; border-collapse: collapse; text-align:justify;&quot; frame=&quot;void&quot; rules=&quot;none&quot; border=&quot;0&quot; cellpadding=&quot;5&quot;&gt;&lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+	&lt;a href=&quot;http://www.youtube.com/users/VanillaDeskSD&quot;&gt;
+	          &lt;span class=&quot;shadow&quot;&gt;
+          &lt;a href=&quot;/images/news/2012-09-06/youtube_logo.png &quot; class=&quot;popup&quot;&gt;
+            &lt;img src=&quot;/images/news/2012-09-06/youtube_logo.png &quot; class=&quot;shadow&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/span&gt;
+
+	&lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+        &lt;p&gt;VanillaDesk now has a brand new Youtube channel - &lt;a href=&quot;http://www.youtube.com/users/VanillaDeskSD&quot;&gt;VanillaDeskSD&lt;/a&gt;.  &lt;/p&gt;
+        &lt;p&gt;We will be adding several basic &quot;how to&quot; videos that will help our new users to start using the application easilly.&lt;/p&gt;
+        &lt;br /&gt;
+        &lt;p&gt;&lt;a href=&quot;http://www.youtube.com/users/VanillaDeskSD&quot;&gt;Subscribe now&lt;/a&gt; to get the latest info.&lt;/p&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+<published>2012-09-06 00:00:00 +0200</published>
+<link>http://www.vanilladesk.com/2012/09/06/new-vanilladesk-youtube-channel.html</link>
+</item>
+
+<item>
 <title>VanillaDesk successfully migrated to recurly.com</title>
 <description>&lt;table style=&quot;border-image: none; width: 100%; border-collapse: collapse; text-align:justify;&quot; frame=&quot;void&quot; rules=&quot;none&quot; border=&quot;0&quot; cellpadding=&quot;5&quot;&gt;&lt;tbody&gt;
     &lt;tr&gt;
@@ -498,34 +526,6 @@ Now, you can define notifications for each language your customers use and Vanil
 </description>
 <published>2012-01-30 00:00:00 +0100</published>
 <link>http://www.vanilladesk.com/2012/01/30/VanillaDesk-Help-has-been-made-more-contextual.html</link>
-</item>
-
-<item>
-<title>Lite edition now available</title>
-<description>&lt;p class=&quot;strong&quot;&gt;Lite edition is the perfect choice for small businesses.
-&lt;/p&gt;
-&lt;p&gt;We have introduced an edition choice, that will allow even the smallest companies to benefit from ITIL best practices and features implemented in VanillaDesk.&amp;nbsp;We call it Lite edition.
-&lt;/p&gt;
-&lt;p&gt;Based on popular demand, a new Lite edition has been designed, to help small companies with service desk optimization using VanillaDesk tools.&amp;nbsp;
-&lt;/p&gt;
-&lt;p&gt;All the key benefits of Professional and Enterprise editions are now available at a more affordable price.
-&lt;/p&gt;
-&lt;p&gt;For more details about the &lt;strong&gt;Lite edition&lt;/strong&gt;, check the comparison&amp;nbsp;&lt;a href=&quot;http://www.vanilladesk.com/en/service-desk-software-pricing/overview.htm&quot;&gt;here&lt;/a&gt;.
-&lt;/p&gt;
-&lt;p&gt;And remember:
-&lt;/p&gt;
-&lt;p&gt;
-&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;you are still&amp;nbsp;&lt;strong&gt;&lt;em&gt;unlimited&lt;/em&gt;&lt;/strong&gt; in how many &lt;strong&gt;&lt;em&gt;users&lt;/em&gt;&lt;/strong&gt; you can create, for free of course,&lt;/li&gt;
-  &lt;li&gt;you still get a &lt;strong&gt;&lt;em&gt;30-day free trial&lt;/em&gt;&lt;/strong&gt; to try all the features of VanillaDesk,&lt;/li&gt;
-  &lt;li&gt;and you can still&amp;nbsp;&lt;strong&gt;&lt;em&gt;cancel at any time&lt;/em&gt;&lt;/strong&gt; or revert to Free edition&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;
-&lt;/p&gt;
-</description>
-<published>2011-12-01 00:00:00 +0100</published>
-<link>http://www.vanilladesk.com/2011/12/01/Lite-edition-now-available.html</link>
 </item>
 
 </channel>
