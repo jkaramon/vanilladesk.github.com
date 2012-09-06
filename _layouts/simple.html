@@ -1,7 +1,29 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
   <head> 
-    {% include head.html %}
+    <title>{{page.title}}</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="description" content="{{page.meta_description}}">
+    <meta name="keywords" content="{{page.keywords}}">
+
+    {% if page.norobots %} 
+    <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+    {% endif %}
+
+    <link rel="alternate" type="application/rss+xml" title="Vanilladesk Blog RSS" href="{{site.url}}/{{site.rss.feed_page}}">
+
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/images/favicon.ico" type="image/x-icon">
+    <link href="/css/screen.css" type="text/css" rel="stylesheet">
+    <link href="/css/menu.css" type="text/css" rel="stylesheet">
+    <link href="/css/print.css" type="text/css" rel="stylesheet">
+    <link href="/css/fb.css" type="text/css" rel="stylesheet">
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script type="text/javascript">
+      {% include ga.js %}; 
+    {% include vanilladesk.js %} 
+    </script>
+    <script type="text/javascript" src="/jwplayer/jwplayer.js"></script>
     <link href="/css/page.css" type="text/css" rel="stylesheet">
   </head>
 

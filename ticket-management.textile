@@ -1,0 +1,52 @@
+---
+title: Ticket Management with Ease - VanillaDesk
+layout: simple
+keywords: ticket management service desk servicedesk help helpdesk easy simmple incident request email features review comparison
+meta_description: Full featured, easy to use cloud based ticket management 
+---
+
+<div class="intro">
+<notextile>
+{% video https://s3.amazonaws.com/media.vanilladesk.com/ticket-management class=main-img width=480 height=300 %}
+</notextile>
+
+h1. Ticket management should be fun!
+
+h2. See some of ticket management<br>nifty features 
+
+</div>
+
+<div class="cnt left">
+
+h2. Ticket management should be easy!
+
+* Quick and simple ticket creation
+* Drag & drop attachments to your tickets
+* Paste screenshots and pictures directly 
+* Create relations to other tickets
+* and much more ... 
+
+<div class="signup">
+p(register). "Signup now for FREE!":https://my.vanilladesk.com/register
+
+p(demo). If unsure try our "DEMO":/demo.htm first. 
+No registration necessary.
+
+</div>
+
+</div>
+
+<div class="cnt left">
+
+h2. You may create and update tickets via email!
+* Create tickets from email
+* Add ticket comment via email
+* Add ticket watcher by adding his email address to CC field
+
+
+
+</div>
+
+<div class="footer">
+</div>
+
