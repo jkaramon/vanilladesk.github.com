@@ -10,7 +10,7 @@
 <description>&lt;table style=&quot;border-image: none; width: 100%; border-collapse: collapse; text-align:justify;&quot; frame=&quot;void&quot; rules=&quot;none&quot; border=&quot;0&quot; cellpadding=&quot;5&quot;&gt;&lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;
-	&lt;a href=&quot;http://www.youtube.com/users/VanillaDeskSD&quot;&gt;
+	&lt;a href=&quot;http://www.youtube.com/user/VanillaDeskSD&quot;&gt;
 	          &lt;span class=&quot;shadow&quot;&gt;
           &lt;a href=&quot;/images/news/2012-09-06/youtube_logo.png &quot; class=&quot;popup&quot;&gt;
             &lt;img src=&quot;/images/news/2012-09-06/youtube_logo.png &quot; class=&quot;shadow&quot; /&gt;
@@ -20,10 +20,10 @@
 	&lt;/a&gt;
       &lt;/td&gt;
       &lt;td&gt;
-        &lt;p&gt;VanillaDesk now has a brand new Youtube channel - &lt;a href=&quot;http://www.youtube.com/users/VanillaDeskSD&quot;&gt;VanillaDeskSD&lt;/a&gt;.  &lt;/p&gt;
+        &lt;p&gt;VanillaDesk now has a brand new Youtube channel - &lt;a href=&quot;http://www.youtube.com/user/VanillaDeskSD&quot;&gt;VanillaDeskSD&lt;/a&gt;.  &lt;/p&gt;
         &lt;p&gt;We will be adding several basic &quot;how to&quot; videos that will help our new users to start using the application easilly.&lt;/p&gt;
         &lt;br /&gt;
-        &lt;p&gt;&lt;a href=&quot;http://www.youtube.com/users/VanillaDeskSD&quot;&gt;Subscribe now&lt;/a&gt; to get the latest info.&lt;/p&gt;
+        &lt;p&gt;&lt;a href=&quot;http://www.youtube.com/user/VanillaDeskSD&quot;&gt;Subscribe now&lt;/a&gt; to get the latest info.&lt;/p&gt;
       &lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
