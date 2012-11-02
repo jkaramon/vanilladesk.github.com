@@ -6,6 +6,23 @@
 <link>http://www.vanilladesk.com</link>
 
 <item>
+<title>VanillaDesk service outage</title>
+<description>&lt;p&gt;
+  We experienced a series of short outages of our service on Wednesday October 31st, 2012 from 7:30pm UTC till approximately 10pm UTC. 
+&lt;/p&gt;
+&lt;p&gt;
+  We located a serious issue which caused infinite notification loops resulting in unacceptable application response times and even application outages. 
+  A workaround has been applied on Wednesday and final fixe has been delivered yesterday.
+&lt;/p&gt;
+&lt;p&gt;
+  We thank you for your patience and apologize for any inconvenience.
+&lt;/p&gt;
+</description>
+<published>2012-11-02 00:00:00 +0100</published>
+<link>http://www.vanilladesk.com/2012/11/02/vanilladesk-outages.html</link>
+</item>
+
+<item>
 <title>New VanillaDesk Youtube channel</title>
 <description>&lt;table style=&quot;border-image: none; width: 100%; border-collapse: collapse; text-align:justify;&quot; frame=&quot;void&quot; rules=&quot;none&quot; border=&quot;0&quot; cellpadding=&quot;5&quot;&gt;&lt;tbody&gt;
     &lt;tr&gt;
@@ -487,45 +504,6 @@ Now, you can define notifications for each language your customers use and Vanil
 </description>
 <published>2012-02-02 00:00:00 +0100</published>
 <link>http://www.vanilladesk.com/2012/02/02/Starting-with-VanillaDesk-is-easier-than-ever.html</link>
-</item>
-
-<item>
-<title>VanillaDesk Help has been made more contextual</title>
-<description>	&lt;p&gt;
-		Are you tired of browsing through countless manual pages of a software you just started using? This is not the case with VanillaDesk. Our Help is right where it should be – only inches away from the functionality you need to help with.
-	&lt;/p&gt;
-	&lt;p&gt;
-		We understand, that no one has the time to look for explanations of functionality in manuals, that can be hundreds of pages long. Additionally, searching for this info for a long period of time, makes you forget what you were looking for in the first place.
-	&lt;/p&gt;
-	&lt;p&gt;
-    All VanillaDesk functionality, that needs explaining or that can be confusing at first, has its own contextual help. 
-    Whenever you are not sure how a part of VanillaDesk works, 
-    look for the nearest&amp;nbsp;&lt;img src=&quot;/images/news/2012-01-30/help.png &quot; alt=&quot;help&quot;&gt;&amp;nbsp;icon. Clicking it will open a window with all explanations.
-	&lt;/p&gt;
-	&lt;p&gt;
-    As you can see below, the &lt;img src=&quot;/images/news/2012-01-30/help.png &quot; alt=&quot;help&quot;&gt;&amp;nbsp; icons can be found all over VanillaDesk.
-	&lt;/p&gt;
-	&lt;p&gt;
-            &lt;span class=&quot;shadow&quot;&gt;
-          &lt;a href=&quot;/images/news/2012-01-30/helplocations.png &quot; class=&quot;popup&quot;&gt;
-            &lt;img src=&quot;/images/news/2012-01-30/helplocations.png &quot; class=&quot;shadow&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/span&gt;
-
-	&lt;/p&gt;
-	&lt;p&gt;
-    The contextual help also offers lots of useful tips and examples on how to setup and use VanillaDesk.
-    &lt;span style=&quot;font-size: 93%; line-height: 1.53em;&quot;&gt;&amp;nbsp;&lt;/span&gt;
-	&lt;/p&gt;
-	&lt;p&gt;
-		The help content is updated daily, but of course, if you find, that a functionality is not explained in a clearly understandable manner, do not hesitate and ask us directly at &lt;a href=&quot;mailto:support@vanilladesk.com&quot; target=&quot;&quot; title=&quot;&quot; onclick=&quot;&quot;&gt;support@vanilladesk.com&lt;/a&gt; and we will be happy to assist you.
-	&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;
-	
-</description>
-<published>2012-01-30 00:00:00 +0100</published>
-<link>http://www.vanilladesk.com/2012/01/30/VanillaDesk-Help-has-been-made-more-contextual.html</link>
 </item>
 
 </channel>
