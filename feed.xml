@@ -6,6 +6,51 @@
 <link>http://www.vanilladesk.com</link>
 
 <item>
+<title>Update reminder for tickets</title>
+<description>&lt;table style=&quot;border-image: none; width: 100%; border-collapse: collapse; text-align:justify;&quot; frame=&quot;void&quot; rules=&quot;none&quot; border=&quot;0&quot; cellpadding=&quot;5&quot;&gt;&lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+	          &lt;span class=&quot;shadow&quot;&gt;
+          &lt;a href=&quot;/images/news/2012-11-22/updateReminder01.PNG &quot; class=&quot;popup&quot;&gt;
+            &lt;img src=&quot;/images/news/2012-11-22/updateReminder01.PNG &quot; class=&quot;shadow&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/span&gt;
+
+      &lt;/td&gt;
+      &lt;td&gt;
+        &lt;p&gt;In many cases, tickets should be regularly updated, so the affected party is informed of any progress made. This task, however, becomes more difficult with higher number of tickets assigned to an Operator.&lt;/p&gt;
+        &lt;p&gt;We have introduced the &lt;b&gt;Ticket update reminder&lt;/b&gt;. This feature will allow you to specify intervals, in which tickets need to be updated and the system dispatches emails, reminding Operators to update them.&lt;/p&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td colspan=&quot;2&quot;&gt;
+        &lt;p&gt;This new feature is ready to be used out-of-the-box, with only minimal setup needed.&lt;/p&gt;
+        &lt;p&gt;The only action required is:&lt;/p&gt;
+        &lt;ul&gt;
+          &lt;li&gt;either &lt;b&gt;specify the next update time manually&lt;/b&gt;, when adding a public update to a ticket, &lt;/li&gt;
+          &lt;li&gt;or &lt;b&gt;setup the update frequency&lt;/b&gt; in the Service-level agreement (SLA). &lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;span style=&quot;font-size:80%; font-decoration:italic; color:#888;&quot;&gt;
+        &lt;p&gt;The pre-configured parts are:&lt;/p&gt;
+        &lt;ul&gt;
+          &lt;li&gt;a default &lt;b&gt;template of the email&lt;/b&gt;, that will be sent&lt;/li&gt;
+          &lt;li&gt;a &lt;b&gt;list of recipients&lt;/b&gt; who will ne notified once the reminder is triggered&lt;/li&gt;
+          &lt;li&gt;the percent of &lt;b&gt;time remaining until the update is due&lt;/b&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;&lt;i&gt;All above-mentioned settings can be adjusted any time.&lt;/i&gt;&lt;/p&gt;
+        &lt;/span&gt;
+        &lt;br /&gt;
+
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+<published>2012-11-22 00:00:00 +0100</published>
+<link>http://www.vanilladesk.com/2012/11/22/ticket-update-reminder.html</link>
+</item>
+
+<item>
 <title>VanillaDesk service outage</title>
 <description>&lt;p&gt;
   We experienced a series of short outages of our service on Wednesday October 31st, 2012 from 7:30pm UTC till approximately 10pm UTC. 
@@ -440,70 +485,6 @@ Now, you can define notifications for each language your customers use and Vanil
 </description>
 <published>2012-02-28 00:00:00 +0100</published>
 <link>http://www.vanilladesk.com/2012/02/28/Overview-of-sent-notifications-just-got-better.html</link>
-</item>
-
-<item>
-<title>Starting with VanillaDesk is easier than ever</title>
-<description>&lt;div style=&quot;border-style: initial; border-color: initial; border-image: initial; background-image: none; background-attachment: initial; background-origin: initial; background-clip: initial; padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; width: 600px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; background-position: 0px 0px; background-repeat: no-repeat no-repeat;&quot;&gt;
-  &lt;p style=&quot;line-height: 1.53em;&quot;&gt;
-    &lt;font size=&quot;3&quot;&gt;&amp;nbsp;If you are starting with VanillaDesk and you are not sure which parts of the application require your attention before using, we have prepared a initial configuration&amp;nbsp;„TO-DO list“, that will put you on the right track.&lt;/font&gt;
-  &lt;/p&gt;
-  &lt;p style=&quot;line-height: 1.53em;&quot;&gt;
-    &lt;font size=&quot;3&quot;&gt;&amp;nbsp;Even though you are able to use VanillaDesk right out of the box, there are some parts you would like to configure to meet your companys` individual needs.&lt;/font&gt;
-  &lt;/p&gt;
-  &lt;p style=&quot;line-height: 1.53em;&quot;&gt;
-    &lt;font size=&quot;3&quot;&gt;To save you the trouble of rummaging through the configuration options, &lt;strong&gt;the most important parts have been placed into the TO-DO list&lt;/strong&gt;.&lt;/font&gt;
-  &lt;/p&gt;
-  &lt;p&gt;
-    &lt;span style=&quot;font-size: medium;&quot;&gt;Each entry of the list contains:&lt;/span&gt;
-  &lt;/p&gt;
-  &lt;ul&gt;
-    &lt;li&gt;a short &lt;strong&gt;&lt;em&gt;explanation of each setting&lt;/em&gt;&lt;/strong&gt; and its importance
-    &lt;/li&gt;
-    &lt;li&gt;
-      &lt;span style=&quot;font-size: medium;&quot;&gt;simple&amp;nbsp;&lt;em&gt;&lt;strong&gt;tutorial videos&lt;/strong&gt;&lt;/em&gt;, that will guide you through setting up each list entry&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-      &lt;strong&gt;&lt;em&gt;link&lt;/em&gt;&lt;/strong&gt; to lead you directly to the setting
-    &lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;p&gt;
-            &lt;span class=&quot;shadow&quot;&gt;
-          &lt;a href=&quot;/images/news/2012-02-02/todo.png &quot; class=&quot;popup&quot;&gt;
-            &lt;img src=&quot;/images/news/2012-02-02/todo.png &quot; class=&quot;shadow&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/span&gt;
-
-  &lt;/p&gt;
-  &lt;p&gt;
-    &amp;nbsp;
-  &lt;/p&gt;
-  &lt;p&gt;
-    &lt;strong style=&quot;font-size: medium; line-height: 1.53em;&quot;&gt;Accessing the TO-DO list&lt;/strong&gt; &lt;span style=&quot;font-size: medium; line-height: 1.53em;&quot;&gt;is easy:&lt;/span&gt;
-  &lt;/p&gt;
-  &lt;ul&gt;
-    &lt;li style=&quot;line-height: 1.53em;&quot;&gt;
-      &lt;span style=&quot;line-height: 1.53em;&quot;&gt;&lt;font size=&quot;3&quot;&gt;it is the first screen you see, when you start using VanillaDesk&lt;/font&gt;&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;li style=&quot;line-height: 1.53em;&quot;&gt;
-      &lt;span style=&quot;line-height: 1.53em;&quot;&gt;&lt;font size=&quot;3&quot;&gt;a smaller version will always be visible in the sidebar, reminding you of the settings that have not been configured yet&lt;/font&gt;&lt;/span&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;p style=&quot;text-align: center;font-size: 93%;&quot;&gt;
-            &lt;span class=&quot;shadow&quot;&gt;
-          &lt;a href=&quot;/images/news/2012-02-02/todolist.png &quot; class=&quot;popup&quot;&gt;
-            &lt;img src=&quot;/images/news/2012-02-02/todolist.png &quot; class=&quot;shadow&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/span&gt;
-
-  &lt;/p&gt;
-  &lt;p&gt;
-    The list will hide automatically, once you get through all recommended settings.
-  &lt;/p&gt;
-&lt;/div&gt;
-</description>
-<published>2012-02-02 00:00:00 +0100</published>
-<link>http://www.vanilladesk.com/2012/02/02/Starting-with-VanillaDesk-is-easier-than-ever.html</link>
 </item>
 
 </channel>
