@@ -81,6 +81,7 @@ task :chcp do
 	end
 end
 
+desc "Run development server"
 task :run => :chcp do
     puts '* Running Jekyll'
     sh "bundle exec jekyll --server --auto"
