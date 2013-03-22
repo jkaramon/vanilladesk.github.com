@@ -6,6 +6,79 @@
 <link>http://www.vanilladesk.com</link>
 
 <item>
+<title>New VanillaDesk release - many improvements!</title>
+<description>&lt;p&gt;
+  In this VanillaDesk release we were focusing on improving usability in most common tasks, 
+  mainly in ticket management and customer portal. There are quick overview of these enhancements:
+&lt;/p&gt;
+
+&lt;h2&gt;Simple editor with preview for full-text enabled fields&lt;/h2&gt;
+
+  &lt;h5&gt;Editor (source text)&lt;/h5&gt;
+          &lt;span class=&quot;shadow&quot;&gt;
+          &lt;a href=&quot;/images/news/2013-03-22/editor.png &quot; class=&quot;popup&quot;&gt;
+            &lt;img src=&quot;/images/news/2013-03-22/editor.png &quot; class=&quot;shadow big&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/span&gt;
+
+  
+  &lt;h5&gt;Editor preview&lt;/h5&gt;
+          &lt;span class=&quot;shadow&quot;&gt;
+          &lt;a href=&quot;/images/news/2013-03-22/editor-preview.png &quot; class=&quot;popup&quot;&gt;
+            &lt;img src=&quot;/images/news/2013-03-22/editor-preview.png &quot; class=&quot;shadow big&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/span&gt;
+
+  
+  &lt;h2&gt;Ability to edit existing ticket comments&lt;/h2&gt;
+  &lt;h5&gt;Edit comment dialog&lt;/h5&gt;
+          &lt;span class=&quot;shadow&quot;&gt;
+          &lt;a href=&quot;/images/news/2013-03-22/comment-edit.png &quot; class=&quot;popup&quot;&gt;
+            &lt;img src=&quot;/images/news/2013-03-22/comment-edit.png &quot; class=&quot;shadow big&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/span&gt;
+
+
+    
+&lt;h2&gt;Link (and close) call to existing ticket&lt;/h2&gt;
+  Very useful feature when you receive many calls to the same incident. 
+  &lt;h5&gt;Link call to already exiting ticket&lt;/h5&gt;
+          &lt;span class=&quot;shadow&quot;&gt;
+          &lt;a href=&quot;/images/news/2013-03-22/link-existing-ticket.png &quot; class=&quot;popup&quot;&gt;
+            &lt;img src=&quot;/images/news/2013-03-22/link-existing-ticket.png &quot; class=&quot;shadow big&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/span&gt;
+
+  &lt;h5&gt;Linked call will be then closed&lt;/h5&gt;
+          &lt;span class=&quot;shadow&quot;&gt;
+          &lt;a href=&quot;/images/news/2013-03-22/link-call-closed.png &quot; class=&quot;popup&quot;&gt;
+            &lt;img src=&quot;/images/news/2013-03-22/link-call-closed.png &quot; class=&quot;shadow big&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/span&gt;
+
+
+
+&lt;h2&gt;Customer portal enhancements&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ability to resolve and close ticket by end user&lt;/li&gt;
+  &lt;li&gt;Disable own update notifications&lt;/li&gt;
+  &lt;li&gt;public problem notifications&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Other changes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;UI polishing - dropdown list unification&lt;/li&gt;
+  &lt;li&gt;API enhancements - will be described in future post&lt;/li&gt;
+  &lt;li&gt;Page load performance improvements&lt;/li&gt;
+  &lt;li&gt;Over 40 bug fixes&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+<published>2013-03-22 00:00:00 +0100</published>
+<link>http://www.vanilladesk.com/2013/03/22/many-improvements.html</link>
+</item>
+
+<item>
 <title>Update reminder for tickets</title>
 <description>&lt;table style=&quot;border-image: none; width: 100%; border-collapse: collapse; text-align:justify;&quot; frame=&quot;void&quot; rules=&quot;none&quot; border=&quot;0&quot; cellpadding=&quot;5&quot;&gt;&lt;tbody&gt;
     &lt;tr&gt;
@@ -417,74 +490,6 @@ Now, you can define notifications for each language your customers use and Vanil
 </description>
 <published>2012-04-11 00:00:00 +0200</published>
 <link>http://www.vanilladesk.com/2012/04/11/New-design-and-personalization-options-for-VanillaDesk-Portal.html</link>
-</item>
-
-<item>
-<title>Overview of sent notifications just got better</title>
-<description>&lt;p&gt;
-	When a ticket gets updated in VanillaDesk, notifications are automatically dispatched to people who may be interested in the performed activity. There was, however, no way to see who were the notifications sent to and whether they were actually sent.
-&lt;/p&gt;
-&lt;p&gt;
-	By introducing the overview of sent notifications for each ticket activity, there is now the possibility to view all notifications, that were triggered by performing a ticket update.&amp;nbsp;
-&lt;/p&gt;
-&lt;table style=&quot;float: none; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; width: 100%; background-image: none;&quot; frame=&quot;void&quot; rules=&quot;none&quot; summary=&quot;&quot; border=&quot;1&quot; cellpadding=&quot;1&quot; cellspacing=&quot;1&quot;&gt;
-	&lt;tbody&gt;
-		&lt;tr&gt;
-			&lt;td&gt;
-				        &lt;span class=&quot;shadow&quot;&gt;
-          &lt;a href=&quot;/images/news/2012-02-28/ticketnotifications01.png &quot; class=&quot;popup&quot;&gt;
-            &lt;img src=&quot;/images/news/2012-02-28/ticketnotifications01.png &quot; class=&quot;shadow&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/span&gt;
-
-			&lt;/td&gt;
-			&lt;td&gt;
-				&amp;nbsp;The sent notification overview is available via the notifications button on each ticket update. Clicking the button will expand a list of all notifications.
-			&lt;/td&gt;
-		&lt;/tr&gt;
-		&lt;tr&gt;
-			&lt;td&gt;
-				&lt;p&gt;
-					The list shows all notifications grouped by roles the recipients represent&lt;br&gt;
-				&lt;/p&gt;
-				&lt;p&gt;
-					All notifications are visible – even those, that were not sent due to a rule or an error. This way you can quickly find out who should have been notified, but was not, and act accordingly.
-				&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td&gt;
-				        &lt;span class=&quot;shadow&quot;&gt;
-          &lt;a href=&quot;/images/news/2012-02-28/ticketnotifications02.png &quot; class=&quot;popup&quot;&gt;
-            &lt;img src=&quot;/images/news/2012-02-28/ticketnotifications02.png &quot; class=&quot;shadow&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/span&gt;
-
-			&lt;/td&gt;
-		&lt;/tr&gt;
-		&lt;tr&gt;
-			&lt;td&gt;
-				        &lt;span class=&quot;shadow&quot;&gt;
-          &lt;a href=&quot;/images/news/2012-02-28/ticketnotifications03.png &quot; class=&quot;popup&quot;&gt;
-            &lt;img src=&quot;/images/news/2012-02-28/ticketnotifications03.png &quot; class=&quot;shadow&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/span&gt;
-
-				
-			&lt;/td&gt;
-			&lt;td&gt;
-				&amp;nbsp;You are also able to view the notification body itself by clicking on the template name.
-				&lt;p&gt;
-					Additionally, when an email was not sent, the rule or error can be displayed for troubleshooting possibilities.&amp;nbsp;
-				&lt;/p&gt;
-			&lt;/td&gt;
-		&lt;/tr&gt;
-	&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;
-	&amp;nbsp;Go ahead and give it a try...&amp;nbsp;
-&lt;/p&gt;
-</description>
-<published>2012-02-28 00:00:00 +0100</published>
-<link>http://www.vanilladesk.com/2012/02/28/Overview-of-sent-notifications-just-got-better.html</link>
 </item>
 
 </channel>
