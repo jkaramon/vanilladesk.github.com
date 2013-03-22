@@ -42,7 +42,7 @@
     
 &lt;h2&gt;Link (and close) call to existing ticket&lt;/h2&gt;
   Very useful feature when you receive many calls to the same incident. 
-  &lt;h5&gt;Link call to already exiting ticket&lt;/h5&gt;
+  &lt;h5&gt;Link call to already existing ticket&lt;/h5&gt;
           &lt;span class=&quot;shadow&quot;&gt;
           &lt;a href=&quot;/images/news/2013-03-22/link-existing-ticket.png &quot; class=&quot;popup&quot;&gt;
             &lt;img src=&quot;/images/news/2013-03-22/link-existing-ticket.png &quot; class=&quot;shadow big&quot; /&gt;
