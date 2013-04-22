@@ -6,6 +6,52 @@
 <link>http://www.vanilladesk.com</link>
 
 <item>
+<title>New Release - Improved API</title>
+<description>&lt;p&gt;
+  New VanillDesk release comes with the improved API and with the more readable API documentation.
+  The new documentation is available &lt;a href=&quot;https://sd.vanilladesk.com/doc/api/index.html&quot;&gt;here&lt;/a&gt;.
+&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&quot;https://sd.vanilladesk.com/doc/api/api-reference.html&quot;&gt;API Reference&lt;/a&gt; 
+  is produced by &lt;a href=&quot;https://github.com/wordnik/swagger-core/wiki&quot;&gt;Swagger&lt;/a&gt;. 
+  It is a great API documentation system and we have only words of thanks to its creators.
+          &lt;span class=&quot;shadow&quot;&gt;
+          &lt;a href=&quot;/images/news/2013-04-22/api-doc.png &quot; class=&quot;popup&quot;&gt;
+            &lt;img src=&quot;/images/news/2013-04-22/api-doc.png &quot; class=&quot;shadow big&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/span&gt;
+
+&lt;/p&gt;
+
+&lt;h2&gt;Other Small but Handy Changes&lt;/h2&gt;
+
+&lt;h5&gt;Private Attachments&lt;/h5&gt;
+&lt;p&gt;
+  It is now possible to upload a private attachment. Private attachment is hidden from end users. 
+          &lt;span class=&quot;shadow&quot;&gt;
+          &lt;a href=&quot;/images/news/2013-04-22/private-attachments.png &quot; class=&quot;popup&quot;&gt;
+            &lt;img src=&quot;/images/news/2013-04-22/private-attachments.png &quot; class=&quot;shadow big&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/span&gt;
+
+&lt;/p&gt;
+&lt;h5&gt;Reporting - Search by deadline&lt;/h5&gt;
+Ticket reports can be filtered by the date range in which a ticket deadline expires.
+        &lt;span class=&quot;shadow&quot;&gt;
+          &lt;a href=&quot;/images/news/2013-04-22/search-by-deadline.png &quot; class=&quot;popup&quot;&gt;
+            &lt;img src=&quot;/images/news/2013-04-22/search-by-deadline.png &quot; class=&quot;shadow big&quot; /&gt;
+          &lt;/a&gt;
+        &lt;/span&gt;
+
+
+
+
+</description>
+<published>2013-04-22 00:00:00 +0200</published>
+<link>http://www.vanilladesk.com/2013/04/22/enhanced-api.html</link>
+</item>
+
+<item>
 <title>New VanillaDesk release - many improvements!</title>
 <description>&lt;p&gt;
   In this VanillaDesk release we were focusing on improving usability in most common tasks, 
@@ -429,67 +475,6 @@ Now, you can define notifications for each language your customers use and Vanil
 </description>
 <published>2012-04-12 00:00:00 +0200</published>
 <link>http://www.vanilladesk.com/2012/04/12/System-notifications-are-now-customizable.html</link>
-</item>
-
-<item>
-<title>New design and personalization options for VanillaDesk Portal</title>
-<description>&lt;p&gt;&amp;nbsp;We have updated the design and layout of VanillaDesk Portal – it has been made more intuitive and given a new, modern look. Also many personalization options were added, so you can apply your company web page coloring easily.
-&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;         &lt;span class=&quot;shadow&quot;&gt;
-          &lt;a href=&quot;/images/news/2012-04-11/portalsettings.png &quot; class=&quot;popup&quot;&gt;
-            &lt;img src=&quot;/images/news/2012-04-11/portalsettings.png &quot; class=&quot;shadow&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/span&gt;
- Using the new options for personalizing VanillaDesk Portal, you can&lt;strong&gt; adjust its looks to match your corporate colors&lt;/strong&gt; for a seamless integration into your web.&amp;nbsp;
-&lt;/p&gt;
-&lt;p&gt;To make the personalizing quicker, we also introduced an &lt;strong&gt;interactive preview of the Portal settings&lt;/strong&gt; – to see your changes as soon as you make them.
-&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;
-&lt;/p&gt;
-&lt;p&gt;Here are some examples of possible Portal designs:&amp;nbsp;
-&lt;/p&gt;
-&lt;p&gt;
-&lt;/p&gt;
-&lt;table style=&quot;border-image: none; width: 100%; border-collapse: collapse; &quot; frame=&quot;void&quot; rules=&quot;none&quot; border=&quot;0&quot; cellpadding=&quot;5&quot;&gt;&lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;        &lt;span class=&quot;shadow&quot;&gt;
-          &lt;a href=&quot;/images/news/2012-04-11/design1_list.png &quot; class=&quot;popup&quot;&gt;
-            &lt;img src=&quot;/images/news/2012-04-11/design1_list.png &quot; class=&quot;shadow&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/span&gt;
-&lt;/td&gt;
-	  &lt;td&gt;        &lt;span class=&quot;shadow&quot;&gt;
-          &lt;a href=&quot;/images/news/2012-04-11/design1_ticket.png &quot; class=&quot;popup&quot;&gt;
-            &lt;img src=&quot;/images/news/2012-04-11/design1_ticket.png &quot; class=&quot;shadow&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/span&gt;
-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;
-                &lt;span class=&quot;shadow&quot;&gt;
-          &lt;a href=&quot;/images/news/2012-04-11/design2_list.png &quot; class=&quot;popup&quot;&gt;
-            &lt;img src=&quot;/images/news/2012-04-11/design2_list.png &quot; class=&quot;shadow&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/span&gt;
-
-      &lt;/td&gt;
-      &lt;td&gt;
-                &lt;span class=&quot;shadow&quot;&gt;
-          &lt;a href=&quot;/images/news/2012-04-11/design2_ticket.png  &quot; class=&quot;popup&quot;&gt;
-            &lt;img src=&quot;/images/news/2012-04-11/design2_ticket.png  &quot; class=&quot;shadow&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/span&gt;
-
-      &lt;/td&gt;
-  &lt;/tr&gt;&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;
-&lt;/p&gt;
-
-</description>
-<published>2012-04-11 00:00:00 +0200</published>
-<link>http://www.vanilladesk.com/2012/04/11/New-design-and-personalization-options-for-VanillaDesk-Portal.html</link>
 </item>
 
 </channel>
