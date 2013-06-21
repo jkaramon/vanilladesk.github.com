@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   s.files = ["bin/redcarpet", "COPYING", "ext/redcarpet/extconf.rb"]
   s.homepage = "http://github.com/tanoku/redcarpet"
   s.require_paths = ["lib"]
-  s.rubygems_version = "1.8.24"
+  s.rubygems_version = "1.8.25"
   s.summary = "Ruby bindings for libupskirt"
 
   if s.respond_to? :specification_version then
