@@ -4,6 +4,6 @@ source "https://rubygems.org"
 
 gem 'rake'
 
-gem "jekyll"
+gem "jekyll", '0.11.2'
 gem 'redcarpet', '1.17.2'
 gem 'RedCloth'

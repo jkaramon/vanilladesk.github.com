@@ -6,6 +6,72 @@
 <link>http://www.vanilladesk.com</link>
 
 <item>
+<title>Release Management</title>
+<description>  &lt;p&gt;
+    We are excited to announce our latest product addition, VanillaDesk Release Management. 
+    As we designed this feature, we want to provide you a powerful, but easy to use tool to manage your deliveries.
+  &lt;/p&gt;
+
+  &lt;h3&gt;Our release management should give the answer to these problems:&lt;/h3&gt;
+  
+  &lt;p&gt;
+    &lt;h4&gt;In which release (delivery) is the ticket fixed?&lt;/h4&gt; 
+    It is possible to specify a release while working with a ticket and conversely add ticket to the specific release.
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    &lt;h4&gt;Who is the target audience for this release?&lt;/h4&gt; 
+    A release can be assigned to one customer, to one or more customer groups, or to all customers.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;h4&gt;How to distribute software release deliveries (documents, sw packages, ...)?&lt;/h4&gt;
+    A release deliveries may be distributed via optional Microsoft SkyDrive integration. A deployed release
+    is visible on customer portal. End user may see public release notes and public deliveries from specific 
+    SkyDrive folder.
+  &lt;/p&gt;
+ 
+
+</description>
+<published>2013-06-26 00:00:00 +0200</published>
+<link>http://www.vanilladesk.com/2013/06/26/release-management.html</link>
+</item>
+
+<item>
+<title>Knowledge Base Re-implemented</title>
+<description>  &lt;p&gt;
+    We announce a re-implementation of Knowledge Base (KB) in our latest product version.
+  &lt;/p&gt;
+
+  &lt;h3&gt;This new simple but cool feature can help you as follow:&lt;/h3&gt;
+  &lt;p&gt;
+    &lt;h4&gt;Suggestions&lt;/h4&gt;
+    KB articles appear in the list of suggested tickets/articles which our system finds relevant
+    for the ticket operator is working on.
+  &lt;/p&gt;
+  &lt;p&gt;
+    &lt;h4&gt;Close a call by relating it to an existing article&lt;/h4&gt;
+    It is possible to link a call to an exiting KB article without creating an incident.
+    This can be e.g. used for know-errors or very often repeating issues.
+  &lt;/p&gt;
+  &lt;p&gt;
+    &lt;h4&gt;Create KB article from an existing ticket&lt;/h4&gt;
+    All problems and incidents can be converted into KB article using predefined template.
+  &lt;/p&gt;
+  &lt;p&gt;
+    &lt;h4&gt;Portal extensions&lt;/h4&gt;
+    All published articles are available in the customer portal too. End users will be provided with
+    suggestions for KB articles which might be relevant for their issue while creating a ticket through
+    the customer portal.
+  &lt;/p&gt;
+  
+  
+</description>
+<published>2013-06-26 00:00:00 +0200</published>
+<link>http://www.vanilladesk.com/2013/06/26/kb-management.html</link>
+</item>
+
+<item>
 <title>New Release - Improved API</title>
 <description>&lt;p&gt;
   New VanillDesk release comes with the improved API and with the more readable API documentation.
@@ -397,84 +463,6 @@ Now, you can define notifications for each language your customers use and Vanil
 </description>
 <published>2012-06-13 00:00:00 +0200</published>
 <link>http://www.vanilladesk.com/2012/06/13/send-notifications-in-multiple-languages.html</link>
-</item>
-
-<item>
-<title>Customers can be created directly from tickets</title>
-<description>&lt;p&gt;When creating or editing ticket info, a new customer can be easilly created.
-&lt;/p&gt;
-
-&lt;table style=&quot;border-image: none; width: 100%; border-collapse: collapse; text-align:justify;&quot; frame=&quot;void&quot; rules=&quot;none&quot; border=&quot;0&quot; cellpadding=&quot;5&quot;&gt;&lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;        &lt;span class=&quot;shadow&quot;&gt;
-          &lt;a href=&quot;/images/news/2012-05-18/newCustomer01.PNG &quot; class=&quot;popup&quot;&gt;
-            &lt;img src=&quot;/images/news/2012-05-18/newCustomer01.PNG &quot; class=&quot;shadow&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/span&gt;
-&lt;/td&gt;
-	  &lt;td&gt;
-		&lt;p&gt;
-			To create a new customer, simply click the (+) button right next to the customer selector field. A modal window will open.
-		&lt;/p&gt;
-	  &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;
-		&lt;p&gt;
-			Specify the customers' &lt;b&gt;name&lt;/b&gt; and select the &lt;b&gt;services&lt;/b&gt;, that will be available to him. &lt;br /&gt; &lt;b&gt;A service-level agreement&lt;/b&gt; (SLA) will automatically be created for each of the selected services, saving even more time configuring. &lt;br /&gt;Additionally, you are also able to create multiple &lt;b&gt;locations&lt;/b&gt; for the customer (if there are more of them).
-		&lt;/p&gt;
-      &lt;/td&gt;
-      &lt;td&gt;
-                &lt;span class=&quot;shadow&quot;&gt;
-          &lt;a href=&quot;/images/news/2012-05-18/newCustomer02.PNG &quot; class=&quot;popup&quot;&gt;
-            &lt;img src=&quot;/images/news/2012-05-18/newCustomer02.PNG &quot; class=&quot;shadow&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/span&gt;
- 
-		&lt;br /&gt;&lt;br /&gt;
-		        &lt;span class=&quot;shadow&quot;&gt;
-          &lt;a href=&quot;/images/news/2012-05-18/newCustomer03.PNG &quot; class=&quot;popup&quot;&gt;
-            &lt;img src=&quot;/images/news/2012-05-18/newCustomer03.PNG &quot; class=&quot;shadow&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/span&gt;
-
-      &lt;/td&gt;
-	&lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;</description>
-<published>2012-05-18 00:00:00 +0200</published>
-<link>http://www.vanilladesk.com/2012/05/18/customers-can-be-created-directly-from-tickets.html</link>
-</item>
-
-<item>
-<title>System notifications are now customizable</title>
-<description>&lt;p&gt;Are our default notifications too complicated for your users or you want to adjust them for any other reason ? Now you can.
-&lt;/p&gt;
-&lt;p&gt;All system notifications – like password reset email and more – were made customizable.
-&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;shadow&quot;&gt;&lt;a href=&quot;http://www.vanilladesk.com/files/img/news/systemnotificationsmain.png&quot; onclick=&quot;&quot; class=&quot;popup&quot;&gt;&lt;img src=&quot;http://www.vanilladesk.com/files/img/news/systemnotificationsmain.png?w=300&quot; alt=&quot;systemnotificationsmain&quot; class=&quot;shadow&quot; align=&quot;left&quot; hspace=&quot;10&quot;&gt;&lt;/a&gt;&lt;/span&gt; To adjust these templates, simply go to &lt;em&gt;&lt;strong&gt;Manage &amp;gt; Notifications&lt;/strong&gt;&lt;/em&gt; and scroll down to &lt;strong&gt;&lt;em&gt;System notifications.&lt;/em&gt;&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;To preview any of them, click on their title, to adjust, click &lt;em&gt;Edit.&lt;/em&gt;
-&lt;/p&gt;
-&lt;p&gt;The system notifications are very similar to the standard notification template, so the environment is familiar (if you already adjusted them).
-&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;span class=&quot;shadow&quot;&gt;&lt;a href=&quot;http://www.vanilladesk.com/files/img/news/systemnotificationsedit.png&quot; onclick=&quot;&quot; class=&quot;popup&quot;&gt;&lt;img src=&quot;http://www.vanilladesk.com/files/img/news/systemnotificationsedit.png?w=400&quot; alt=&quot;systemnotificationsedit&quot; class=&quot;shadow&quot; align=&quot;right&quot; hspace=&quot;10&quot;&gt;&lt;/a&gt;&lt;/span&gt;There are two new features available here:
-&lt;/p&gt;
-&lt;p&gt;
-&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&amp;nbsp;you can always return to our predefined templates by clicking the &lt;strong&gt;Reset to default&lt;/strong&gt; button &lt;em&gt;(this feature has also been added to the standard notification templates)&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;we have &lt;strong&gt;highlighted the mandatory placeholders&lt;/strong&gt;, that are necessary for the template to make sence. This will prevent any disfunctional notifications from being saved.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;
-&lt;/p&gt;
-&lt;p&gt;
-&lt;/p&gt;
-&lt;br&gt;
-
-</description>
-<published>2012-04-12 00:00:00 +0200</published>
-<link>http://www.vanilladesk.com/2012/04/12/System-notifications-are-now-customizable.html</link>
 </item>
 
 </channel>
